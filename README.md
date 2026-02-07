@@ -6,7 +6,7 @@
 
 Artapli is an independent embroidery design studio focused on manual machine-embroidery digitizing and practical, machine-ready results.
 
-Since 2011, we've been building one of the largest embroidery design collections online — with over **6,000 designs on Etsy** and a curated selection of **2,700+ designs on Shopify**. Every design starts with thoughtful illustration, meticulous digitizing, and real test-stitching to ensure files stitch out smoothly and dependably across machines and software.
+Since 2011, we've been building one of the largest embroidery design collections online — with over **6,000 designs on Etsy** and a curated selection of **4,000+ designs on Shopify**. Every design starts with thoughtful illustration, meticulous digitizing, and real test-stitching to ensure files stitch out smoothly and dependably across machines and software.
 
 **Why makers choose Artapli:**
 
