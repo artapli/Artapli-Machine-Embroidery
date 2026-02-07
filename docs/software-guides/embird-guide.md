@@ -4,17 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
-
 ## Overview
 
 Embird is affordable embroidery software for Windows, popular among home
@@ -276,6 +265,8 @@ Minor resize (10%) is safe for standard designs, but not specialty designs.
 - Guide: "How to Use Alphabets in Embird"
 - FAQ: "What software do I need?" - artapli.shop/pages/faq
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

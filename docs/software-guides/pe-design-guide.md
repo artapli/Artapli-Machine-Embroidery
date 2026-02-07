@@ -4,17 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
-
 ## Overview
 
 PE-Design is Brother's official embroidery software for creating and editing
@@ -257,6 +246,8 @@ Palette settings.
 - FAQ: "What format do I need?" - artapli.shop/pages/faq
 - Tutorial: "How to use fonts in PE-Design"
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

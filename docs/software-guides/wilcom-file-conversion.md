@@ -4,16 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 ## Why Proper Conversion Matters
 
 Embroidery designs contain precise stitch data. Improper conversion can:
@@ -139,6 +129,8 @@ All Artapli designs include multiple formats. Instead of converting:
 - FAQ: "What format do I need?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

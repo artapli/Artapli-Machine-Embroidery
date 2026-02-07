@@ -4,16 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 ## Overview
 
 Hatch 2 and Hatch 3 include font mapping capability, allowing you to type text with purchased alphabet designs instead of placing letters individually.
@@ -188,6 +178,8 @@ Check individual product descriptions for ESA availability.
 - FAQ: "How do I use fonts in my software?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

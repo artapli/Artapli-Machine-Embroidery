@@ -4,17 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
-
 ## Overview
 
 Bernina ART (Artista) is Bernina's professional embroidery software, built on
@@ -195,6 +184,8 @@ dimensions match original.
 - Guide: "Files in Wilcom" (applies to Bernina ART)
 - Guide: "About ESA Files and Font Mapping"
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

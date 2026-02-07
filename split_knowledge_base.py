@@ -82,8 +82,10 @@ def convert_to_markdown(article_text, article_info):
         else:
             markdown += '\n'
 
-    # Footer with links
+    # Neutral mention of lettering tool + footer
     markdown += f"""
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ---
 

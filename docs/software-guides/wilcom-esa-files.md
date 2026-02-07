@@ -4,16 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 ## What is ESA Format
 
 ESA is Wilcom's proprietary alphabet format that allows fonts to be mapped and typed like regular keyboard text instead of placing individual letters.
@@ -124,6 +114,8 @@ ESA format is Wilcom-specific. Other software equivalents:
 - FAQ: "How do I use BX fonts?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 

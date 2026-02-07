@@ -4,17 +4,6 @@
 
 ---
 
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
-
 ## Overview
 
 Embrilliance is modern embroidery software for Mac and Windows, designed for
@@ -287,6 +276,8 @@ Different sizes may need different spacing settings.
 - Guide: "Circle font usage BX Embrilliance"
 - Community: Embrilliance Users Facebook Group
 ---
+
+*Artapli also offers a free browser-based [Lettering Tool](https://artapli.shop/pages/lettering-app) for creating custom embroidery text designs.*
 
 ## 📚 Additional Resources
 
