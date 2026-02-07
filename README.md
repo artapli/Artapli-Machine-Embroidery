@@ -53,6 +53,14 @@ Comprehensive documentation for major embroidery software platforms:
 10. [Embrilliance Software Guide](docs/software-guides/embrilliance-guide.md)
 11. [Embird Software Guide](docs/software-guides/embird-guide.md)
 
+### Stitching Guides
+
+Technical guides for machine setup, stitch sequences, and specialty techniques:
+
+- [General Stitching Guidelines](docs/stitching-guides/general-stitching-guidelines.md) - Hooping, stabilization, and best practices
+- [Fringe Embroidery Designs](docs/stitching-guides/fringe-embroidery-designs.md) - Setup and finishing for 3D fringe effects
+- [Puffy Foam Embroidery](docs/stitching-guides/puffy-foam-embroidery.md) - Material placement and care for 3D foam designs
+
 ### Technical Reference
 
 In-depth technical specifications and format documentation:
@@ -89,6 +97,8 @@ Documentation for Artapli's embroidery web applications and tools:
 - Quality preservation during format conversion
 - Software-specific workflows and features
 - Specialty stitch effects (fringe, puffy, appliqué, chain stitch)
+- Machine setup and stitching techniques
+- Hooping, stabilization, and material selection
 - Technical specifications and limitations
 - Troubleshooting common issues
 
@@ -112,6 +122,7 @@ Documentation for Artapli's embroidery web applications and tools:
 ```
 ├── docs/
 │   ├── software-guides/      # Platform-specific guides (11 guides)
+│   ├── stitching-guides/     # Machine setup and technique guides (3 guides)
 │   ├── technical-reference/   # Format specifications
 │   └── app-documentation/     # Tool documentation (4 apps)
 ├── AI_KNOWLEDGE_BASE.txt      # Complete software & technical reference
