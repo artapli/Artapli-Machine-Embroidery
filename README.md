@@ -1,8 +1,39 @@
 # Artapli Machine Embroidery Knowledge Base
 
-> Comprehensive technical documentation for machine embroidery software, file formats, and tools
+> Technical documentation for machine embroidery software, file formats, and workflows
 
-This repository contains detailed technical guides and reference documentation for working with machine embroidery files, software platforms, and digital embroidery workflows.
+## About Artapli
+
+Artapli is an independent embroidery design studio focused on manual machine-embroidery digitizing and practical, machine-ready results.
+
+Since 2011, we've been building one of the largest embroidery design collections online — with over **6,000 designs on Etsy** and a curated selection of **2,700+ designs on Shopify**. Every design starts with thoughtful illustration, meticulous digitizing, and real test-stitching to ensure files stitch out smoothly and dependably across machines and software.
+
+**Why makers choose Artapli:**
+
+- **Proven experience** — Selling since 2011 with thousands of happy customers and a consistently glowing 5-star rating
+- **Quality and detail** — Each design is manually digitized and tested for flawless stitching results
+- **Endless variety** — A vibrant, ever-expanding library covering countless themes, styles, and sizes
+- **Supportive community** — More than a shop; a space for makers with help, guidance, and inspiration
+
+## What This Repository Is
+
+This GitHub space hosts technical documentation, format references, and tooling notes related to machine embroidery workflows — including how embroidery stitch files behave across common software and machine formats.
+
+### Digitizing Principles
+
+Artapli designs are created as stitch files with attention to:
+
+- Stitch direction and sequencing
+- Density, underlay, and pull compensation
+- Specialty techniques (when applicable): appliqué, fringe, puffy foam, chain stitch
+
+### Formats and Compatibility
+
+Designs are commonly prepared in major machine formats: **PES, DST, JEF, VP3, EXP, HUS, XXX, VIP**. Notes in this repository focus on preserving stitch intent and avoiding "auto-optimization" behaviors that can damage specialty effects.
+
+### Quality and Testing
+
+Documentation reflects real embroidery constraints: hoop size, fabric behavior, stabilizer use, and machine readability. Guides include safe editing practices and known pitfalls (for example, aggressive optimization or excessive resizing on specialty designs).
 
 ## Documentation
 
@@ -61,9 +92,20 @@ Documentation for Artapli's embroidery web applications and tools:
 - Technical specifications and limitations
 - Troubleshooting common issues
 
-## About
+## Official Store and Resources
 
-This knowledge base is maintained by Artapli ([artapli.shop](https://artapli.shop)) to provide technical reference documentation for the machine embroidery community.
+- **Official Store:** [artapli.shop](https://artapli.shop)
+- **Etsy Shop:** [artapli.etsy.com](https://www.etsy.com/shop/Artapli)
+- **Lettering Tool:** [artapli.shop/pages/lettering-app](https://artapli.shop/pages/lettering-app)
+- **Design Catalog:** [github.com/artapli/Artapli-Design-Catalog](https://github.com/artapli/Artapli-Design-Catalog)
+
+### Connect With Us
+
+- 🌐 [Facebook](https://www.facebook.com/Artapli)
+- 📸 [Instagram](https://www.instagram.com/Artapli)
+- ▶️ [YouTube](https://www.youtube.com/@Artapli)
+- 🎵 [TikTok](https://www.tiktok.com/@Artapli)
+- 📌 [Pinterest](https://www.pinterest.com/Artapli)
 
 ## Structure
 
@@ -77,10 +119,16 @@ This knowledge base is maintained by Artapli ([artapli.shop](https://artapli.sho
 └── README.md                  # This file
 ```
 
+## Update Policy
+
+Content is updated as tools and workflows evolve. If you spot an error or outdated wording, open an issue or suggest an edit.
+
 ## License
 
 This documentation is provided for educational and reference purposes.
 
 ---
+
+*This knowledge base is maintained by Artapli to provide technical reference documentation for the machine embroidery community.*
 
 *Last updated: 2026-02-07*
