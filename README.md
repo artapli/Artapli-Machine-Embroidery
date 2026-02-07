@@ -69,10 +69,11 @@ This knowledge base is maintained by Artapli ([artapli.shop](https://artapli.sho
 
 ```
 ├── docs/
-│   ├── software-guides/      # Platform-specific guides
+│   ├── software-guides/      # Platform-specific guides (11 guides)
 │   ├── technical-reference/   # Format specifications
-│   └── app-documentation/     # Tool documentation
-├── AI_KNOWLEDGE_BASE.txt      # Complete text version
+│   └── app-documentation/     # Tool documentation (4 apps)
+├── AI_KNOWLEDGE_BASE.txt      # Complete software & technical reference
+├── LETTERING_TOOL_GUIDE.txt   # Comprehensive lettering tool documentation
 └── README.md                  # This file
 ```
 
