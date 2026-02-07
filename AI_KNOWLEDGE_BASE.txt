@@ -1,0 +1,2857 @@
+================================================================================
+ARTAPLI EMBROIDERY KNOWLEDGE BASE - AI-OPTIMIZED REFERENCE
+================================================================================
+Comprehensive guide for AI agents, search engines, and knowledge systems
+Store: artapli.shop | Updated: 2026-02-07
+================================================================================
+
+TABLE OF CONTENTS:
+1. Wilcom Embroidery Software Guide
+2. Wilcom ESA Files and Font Mapping
+3. Wilcom File Conversion Best Practices
+4. Hatch Embroidery Software Guide
+5. Hatch Font Mapping for Purchased Alphabets
+6. Bernina Embroidery Software Guide
+7. Bernina ART Machines Guide
+8. PE-Design Software Guide
+9. Melco DesignShop Guide
+10. Embrilliance Software Guide
+11. Embird Software Guide
+12. ESA File Format Technical Reference
+13. Embroidery Analyzer App Documentation
+14. DST Optimizer Tool Documentation
+15. Embroidery Previewer App Documentation
+16. Design Combiner Tool Documentation
+
+================================================================================
+1. WILCOM EMBROIDERY SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+Wilcom is professional embroidery digitizing software used for creating, editing,
+and managing machine embroidery designs. It supports all major embroidery file
+formats and is the industry standard for commercial embroidery operations.
+
+SUPPORTED FILE FORMATS:
+- Native: EMB (Wilcom's proprietary format)
+- Export: DST, PES, JEF, HUS, EXP, VIP, XXX, and 50+ other formats
+- Import: All standard embroidery formats
+- Font Formats: ESA (Wilcom alphabet format)
+
+KEY FEATURES:
+1. Professional digitizing tools
+2. Auto-digitizing capabilities
+3. Font mapping and lettering
+4. Design library management
+5. Production management tools
+6. Multi-needle machine support
+
+USING PURCHASED EMBROIDERY DESIGNS IN WILCOM:
+When you purchase embroidery designs from Artapli, follow these steps:
+
+Step 1: Download and Extract
+- Download the ZIP file containing your designs
+- Extract all files to a dedicated folder
+- Keep files organized by design collection
+
+Step 2: Import to Wilcom
+- Open Wilcom software
+- File > Open Design
+- Navigate to extracted folder
+- Select DST or EMB format files
+- Design opens ready for editing or production
+
+Step 3: Preserve Design Quality
+CRITICAL: Do not use automatic stitch optimization when converting formats
+- Disable "Optimize stitches" option
+- Disable "Remove small stitches" option
+- Keep original stitch data intact
+- Specialty effects (fringe, puffy, chain stitch) require exact stitch placement
+
+COMMON ISSUES AND SOLUTIONS:
+
+Issue: Design looks different after opening
+Solution: Wilcom may auto-optimize. Use File > Import instead of Open to preserve
+original stitching.
+
+Issue: Fringe or specialty effects don't work
+Solution: Never resize or convert fringe/puffy designs. Use exactly as provided.
+
+Issue: Colors changed
+Solution: Wilcom assigns thread colors automatically. Remap colors in Color Manager
+to match your thread palette.
+
+WORKING WITH ARTAPLI FONTS:
+Artapli provides fonts in multiple formats. For Wilcom users:
+- Use ESA format for native font mapping (see ESA section below)
+- Alternatively, use individual letter files (DST, EMB)
+- BX fonts work with Wilcom if you have font mapping capability
+
+BEST PRACTICES:
+1. Always keep original downloaded files as backup
+2. Work on copies, never original files
+3. Test stitch-out on scrap fabric first
+4. Save work in EMB format to preserve full editability
+5. Export to machine format (DST, PES, etc.) only for final production
+
+TECHNICAL SPECIFICATIONS:
+- Maximum design size: Limited by hoop size
+- Minimum stitch length: 1mm recommended
+- Thread brands: Supports all major thread libraries
+- Production speed: Optimized for commercial machines
+
+RELATED RESOURCES:
+- FAQ: "What embroidery software do I need?" - artapli.shop/pages/faq
+- Guide: "Files in Wilcom" - artapli.shop/pages/files-in-wilcom
+- Guide: "Conversion in Wilcom to preserve design quality"
+
+CUSTOMER SUPPORT:
+For Wilcom-specific questions about Artapli designs, contact support with:
+- Wilcom version number
+- File format you're trying to use
+- Description of issue with screenshots if possible
+
+================================================================================
+2. WILCOM ESA FILES AND FONT MAPPING
+================================================================================
+
+WHAT IS ESA FORMAT:
+ESA is Wilcom's proprietary alphabet format that allows fonts to be mapped
+and typed like regular keyboard text instead of placing individual letters.
+
+BENEFITS OF ESA FONTS:
+1. Type words continuously instead of placing individual letters
+2. Automatic letter spacing and kerning
+3. Baseline alignment handled automatically
+4. Much faster for creating text designs
+5. Easy to edit and modify text after creation
+
+HOW TO INSTALL ESA FONTS IN WILCOM:
+
+Step 1: Locate ESA Files
+- Download Artapli font package
+- Extract ZIP file
+- Find files with .ESA extension
+- Note: Not all fonts include ESA format (check product description)
+
+Step 2: Install to Wilcom
+Method A (Automatic):
+- Double-click the ESA file
+- Wilcom automatically imports and installs
+- Font appears in Lettering toolbar
+
+Method B (Manual):
+- Open Wilcom
+- Go to Edit > Lettering > Font Manager
+- Click "Add Font"
+- Navigate to ESA file location
+- Select ESA file and click Open
+- Font is now available in font list
+
+Step 3: Using Mapped Fonts
+- Select Text tool (Lettering toolbar)
+- Choose your installed Artapli font from dropdown
+- Type your text
+- Font appears with proper spacing and baseline
+- Adjust size, spacing as needed
+
+FONT MAPPING TECHNICAL DETAILS:
+ESA files contain:
+- Individual letter designs for A-Z, a-z, 0-9
+- Punctuation marks
+- Spacing data (left/right bearing)
+- Baseline position
+- Default sizing information
+- Kerning pairs for common letter combinations
+
+ARTAPLI FONTS WITH ESA FORMAT:
+Most Artapli alphabets include ESA format. Check product description for:
+"ESA format included for Wilcom font mapping"
+
+If ESA not included, you can:
+1. Use individual letter files
+2. Create your own font mapping (advanced)
+3. Request custom ESA format (contact support)
+
+TROUBLESHOOTING ESA FONTS:
+
+Issue: ESA file won't import
+Solution: Check Wilcom version compatibility. Older Wilcom versions may not
+support newer ESA formats. Contact Artapli for compatible version.
+
+Issue: Letters overlap or spacing is wrong
+Solution: Use Lettering > Spacing adjustments. ESA fonts include default
+spacing but can be customized per project.
+
+Issue: Missing characters
+Solution: Check if all letters are included. Some specialty fonts only include
+uppercase or specific character sets.
+
+CREATING TEXT WITH ESA FONTS:
+1. Select Lettering tool
+2. Choose Artapli font from list
+3. Type text in text box
+4. Adjust:
+   - Size: Use size slider or enter specific height
+   - Spacing: Adjust letter spacing percentage
+   - Baseline: Shift for special effects
+   - Envelope: Apply curves or arcs to text
+
+ADVANCED ESA FEATURES:
+- Monogramming: Combine letters with special positioning
+- Circle lettering: Apply text to curved paths
+- Multiple lines: Create paragraphs with proper line spacing
+- Color changes: Assign different colors per letter or word
+
+COMPATIBILITY:
+ESA format is Wilcom-specific. Other software equivalents:
+- Hatch: Also uses ESA format
+- Embrilliance: Uses BX format (see Embrilliance section)
+- PE-Design: Uses PES alphabet format
+- Embird: Uses font objects
+
+SEE ALSO:
+- Guide: "About ESA Files and Font Mapping in Wilcom"
+- Guide: "Alphabet Fonts with Your Bernina" (for ART software ESA support)
+- FAQ: "How do I use BX fonts?" - artapli.shop/pages/faq
+
+================================================================================
+3. WILCOM FILE CONVERSION BEST PRACTICES
+================================================================================
+
+WHY PROPER CONVERSION MATTERS:
+Embroidery designs contain precise stitch data. Improper conversion can:
+- Destroy specialty effects (fringe, puffy, 3D)
+- Change stitch density and quality
+- Create gaps or overlaps
+- Cause thread breaks during stitching
+
+ARTAPLI DESIGN PROTECTION PHILOSOPHY:
+Artapli designs are created with specific stitch calculations. To preserve
+quality when converting between formats in Wilcom:
+
+RULE 1: Disable All Automatic Optimizations
+When converting formats, turn OFF:
+- "Optimize stitches"
+- "Remove small stitches"
+- "Reduce stitch count"
+- "Auto-density adjustment"
+- "Smooth curves"
+
+WHY: These features recalculate stitches, destroying intentional design elements.
+
+RULE 2: Use "Save As" Not "Export"
+File > Save As > Select format
+This preserves original stitch data better than Export function.
+
+RULE 3: Never Convert Specialty Designs
+Designs with these effects should NEVER be converted or resized:
+- Fringe/Fluffy effects: Requires specific tight stitches
+- Puffy foam: Precise stitch placement for foam coverage
+- 3D effects: Calculated stitch layering
+- Chain stitch: Specific stitch types that don't translate
+
+For these designs: Use the exact format provided for your machine.
+
+STEP-BY-STEP CONVERSION PROCESS:
+
+Converting DST to PES (Example):
+1. Open Wilcom
+2. File > Open > Select DST file
+3. Design loads with stitch data
+4. File > Save As
+5. Choose PES format from dropdown
+6. UNCHECK these options:
+   - ☐ Optimize stitches
+   - ☐ Remove overlapping stitches
+   - ☐ Reduce stitch count
+7. Click Save
+8. Test stitch on sample fabric before production
+
+WHEN CONVERSION IS SAFE:
+✓ Standard satin stitch designs
+✓ Simple fill patterns
+✓ Basic applique designs
+✓ Regular density designs
+✓ Non-specialty effects
+
+WHEN TO AVOID CONVERSION:
+✗ Fringe designs (any "fluffy" or "fringed" product)
+✗ Puffy foam designs
+✗ Bold chain stitch designs
+✗ Glitter or specialty stitch effects
+✗ Hand-stitch effect designs
+✗ Rope stitch effects
+
+FORMAT-SPECIFIC NOTES:
+
+DST Format:
+- Universal format, works on all machines
+- No color information (machine assigns colors)
+- No density data (fixed stitch length)
+- Best for commercial machines
+- Most stable for conversions
+
+EMB Format (Wilcom Native):
+- Full editability preserved
+- All design data intact
+- Best format for storage and editing
+- Must convert to machine format for stitching
+
+PES Format (Brother):
+- Includes color data
+- Thread brand information
+- Preview thumbnails
+- Good for home machines
+
+JEF Format (Janome):
+- Similar to PES
+- Includes hoop size data
+- Color sequence preserved
+
+CHECKING CONVERSION QUALITY:
+After converting, verify:
+1. Stitch count (should match original ±5%)
+2. Design dimensions (exact match)
+3. Color stops (same number)
+4. Preview appearance (no obvious changes)
+5. Stitch density (use magnifier tool)
+
+If any metric differs significantly, conversion failed. Use different format
+or contact Artapli for optimal format recommendation.
+
+ARTAPLI RECOMMENDATION:
+All Artapli designs include multiple formats. Instead of converting:
+1. Use the format pre-optimized for your machine
+2. All formats tested for quality
+3. No conversion risk
+4. Guaranteed stitch-out results
+
+RELATED GUIDES:
+- "Conversion in Wilcom to preserve design quality" - Full tutorial
+- "Files in Wilcom" - Format compatibility guide
+- FAQ: "What format do I need?" - artapli.shop/pages/faq
+
+================================================================================
+4. HATCH EMBROIDERY SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+Hatch is modern embroidery software created by Wilcom, designed for home
+embroiderers and small businesses. It uses the same powerful engine as Wilcom
+but with a more user-friendly interface.
+
+VERSIONS:
+- Hatch Embroidery 3 (current version as of 2025)
+- Hatch Embroidery 2 (older, still supported)
+- Multiple tiers: Customizer, Composer, Creator
+
+RELATIONSHIP TO WILCOM:
+Hatch is Wilcom's consumer product line:
+- Same file format support (DST, PES, JEF, etc.)
+- Uses ESA font format (same as Wilcom)
+- Similar conversion engine
+- Simplified interface for home users
+
+USING ARTAPLI DESIGNS IN HATCH:
+
+Step 1: Import Designs
+- Download and extract Artapli design ZIP
+- Open Hatch software
+- File > Open Embroidery
+- Browse to extracted design files
+- Select DST or your machine format
+- Design loads ready for editing
+
+Step 2: Editing Capabilities
+Hatch allows you to:
+- Resize designs (use caution - see warnings below)
+- Change colors
+- Combine multiple designs
+- Add lettering
+- Create custom projects
+
+CRITICAL: Do NOT resize specialty designs (fringe, puffy, chain stitch)
+
+Step 3: Save or Export
+- Save in Hatch format (.EMBX) for future editing
+- Export to your machine format for stitching
+
+HATCH-SPECIFIC FEATURES FOR ARTAPLI DESIGNS:
+1. Design Library: Organize Artapli purchases by collection
+2. Thread Matching: Match to your thread brand
+3. Stitch Simulator: Preview before stitching
+4. Hoop Selection: Verify design fits your hoop
+
+FONT MAPPING IN HATCH:
+Like Wilcom, Hatch supports ESA alphabet fonts. When you purchase Artapli fonts:
+
+Installing Fonts in Hatch:
+1. Locate ESA file in downloaded ZIP
+2. In Hatch: Go to Lettering > Font Manager
+3. Click "Import Font"
+4. Select ESA file
+5. Font appears in lettering toolbar
+6. Type text instead of placing individual letters
+
+AUTOMATIC DESIGN ADJUSTMENTS WARNING:
+Hatch has automatic optimization features that can harm Artapli specialty designs:
+
+When opening designs, Hatch may prompt:
+"Optimize this design for better stitching?"
+
+For Artapli designs: ALWAYS click "No" or "Skip Optimization"
+
+Optimization destroys:
+- Fringe effects (removes tiny stitches needed for fringe)
+- Puffy foam coverage (changes stitch placement)
+- Chain stitch character (converts to regular stitches)
+- Hand-stitch appearance (smooths intentional texture)
+
+SAFE PRACTICES IN HATCH:
+✓ Import designs without optimization
+✓ Use provided formats without conversion
+✓ Test on scrap fabric before final project
+✓ Keep original files backed up
+✓ Save work-in-progress in .EMBX format
+
+UNSAFE PRACTICES:
+✗ Auto-optimizing specialty designs
+✗ Resizing fringe or puffy designs
+✗ Converting between formats unnecessarily
+✗ Using "Reduce Stitches" on Artapli designs
+
+HATCH VERSION COMPATIBILITY:
+Artapli designs work with all Hatch versions:
+- Hatch 1: Basic support
+- Hatch 2: Full compatibility
+- Hatch 3: Enhanced preview and editing
+
+Older versions: If you have Hatch 1, some ESA fonts may require Hatch 2+.
+Contact Artapli support for compatible formats.
+
+COMBINING ARTAPLI DESIGNS:
+Hatch excels at combining multiple designs:
+1. Open first design
+2. File > Merge Design
+3. Select second Artapli design
+4. Position and scale as needed
+5. Ensure no stitch conflicts (use Hatch's collision detection)
+
+COMMON HATCH QUESTIONS:
+
+Q: Can I use Artapli BX fonts in Hatch?
+A: No. BX fonts are for Embrilliance software. Use ESA fonts with Hatch.
+
+Q: Design looks pixelated in Hatch preview
+A: This is normal. Hatch renders preview differently than final stitch. Check
+stitch simulator for accurate representation.
+
+Q: Colors don't match my thread
+A: Use Thread Palette feature to match your thread brand. Hatch supports all
+major thread manufacturers.
+
+TECHNICAL SPECIFICATIONS:
+- Native format: .EMBX (Hatch project file)
+- Export formats: 50+ machine formats
+- Maximum design size: 400mm x 400mm (depends on license tier)
+- Font support: ESA, TrueType (auto-digitized)
+
+SEE ALSO:
+- Guide: "Conversion in Hatch to preserve design quality"
+- Guide: "Hatch 3? You Can Map Purchased Alphabets"
+- FAQ: "Which software do I need?" - artapli.shop/pages/faq
+
+================================================================================
+5. HATCH FONT MAPPING FOR PURCHASED ALPHABETS
+================================================================================
+
+OVERVIEW:
+Hatch 2 and Hatch 3 include font mapping capability, allowing you to type text
+with purchased alphabet designs instead of placing letters individually.
+
+REQUIREMENTS:
+- Hatch Embroidery 2 or newer (Hatch 1 does not support font mapping)
+- Purchased alphabet in ESA format
+- Basic understanding of Hatch lettering tools
+
+WHAT IS FONT MAPPING:
+Font mapping converts individual embroidery letter files into a "keyboard font"
+where:
+- You type letters on keyboard
+- Letters appear automatically with proper spacing
+- Baseline alignment is automatic
+- Editing text is instant (no repositioning each letter)
+
+BENEFITS:
+Before font mapping:
+- Place each letter individually
+- Manually adjust spacing between letters
+- Realign if text changes
+- Time-consuming for long words
+
+After font mapping:
+- Type complete words or sentences
+- Software handles spacing
+- Edit text instantly
+- Modify size, spacing with sliders
+
+USING ARTAPLI ESA FONTS IN HATCH:
+
+Step 1: Verify ESA Format
+Check your Artapli purchase includes ESA format:
+- Product description states "ESA format included"
+- Downloaded ZIP contains .ESA file
+- If not included, contact Artapli for ESA version
+
+Step 2: Import Font to Hatch
+1. Open Hatch Embroidery
+2. Click "Lettering" tab
+3. Click "Font Manager" button
+4. Click "Import" or "Add Font"
+5. Navigate to downloaded ESA file
+6. Select ESA file and click Open
+7. Font name appears in font list
+
+Step 3: Use Mapped Font
+1. Select "Text" tool from Lettering toolbar
+2. Find your imported Artapli font in font dropdown
+3. Type your desired text
+4. Font renders with proper spacing
+5. Adjust size, letter spacing, baseline as needed
+
+CREATING CUSTOM FONT MAPPING (Advanced):
+If your Artapli alphabet doesn't include ESA, you can create mapping in Hatch 3:
+
+Manual Font Mapping Process:
+1. Import all individual letter files (A-Z, 0-9, punctuation)
+2. Lettering > Font Manager > Create New Font
+3. Assign each letter file to corresponding keyboard key
+4. Set default spacing (left/right bearing for each letter)
+5. Define baseline position
+6. Save as custom font
+7. Font now available for typing
+
+This is advanced and time-consuming. Artapli recommends:
+- Use provided ESA fonts when available
+- Request custom ESA format from Artapli support
+- Or continue using individual letter placement
+
+FONT MAPPING SETTINGS:
+After importing font, customize:
+- Default size (small, medium, large presets)
+- Letter spacing (percentage adjustment)
+- Baseline position (for special effects)
+- Kerning pairs (adjust space between specific letter combinations)
+
+SPECIALTY ARTAPLI FONTS:
+Some Artapli fonts have unique properties:
+
+Fringe Fonts:
+- Never resize after typing
+- Use exact size provided
+- Spacing adjustment is safe
+- Resizing destroys fringe effect
+
+Puffy Fonts:
+- Designed for specific foam heights
+- Resizing changes foam coverage
+- Use original size or contact Artapli for different sizes
+
+Applique Fonts:
+- Include placement and cover stitches
+- Color stops indicate applique fabric placement
+- Follow color sequence carefully
+
+TROUBLESHOOTING FONT MAPPING:
+
+Issue: Font import fails
+Solution: Check Hatch version (must be 2 or newer). Verify ESA file is not
+corrupted (re-download if needed).
+
+Issue: Letters overlap when typed
+Solution: Adjust letter spacing in Font Properties. Some fonts need wider spacing.
+
+Issue: Baseline is uneven
+Solution: Check baseline settings in Font Manager. Some fonts have intentional
+baseline variation (script fonts).
+
+Issue: Missing characters
+Solution: Check which characters are included. Some Artapli specialty fonts only
+include uppercase or specific character sets. See product description.
+
+COMPARING TYPING VS. INDIVIDUAL LETTERS:
+Typed text (mapped font):
+✓ Faster creation
+✓ Easy editing
+✓ Consistent spacing
+✓ Professional baseline
+✗ Less control over individual letter placement
+✗ Limited to included characters
+
+Individual letters:
+✓ Complete creative control
+✓ Custom spacing per letter
+✓ Monogramming flexibility
+✗ Time-consuming
+✗ Manual spacing adjustment
+✗ Difficult to edit
+
+Choose method based on project needs.
+
+BEST PRACTICES:
+1. Test font on scrap fabric before production
+2. Save project in Hatch format (.EMBX) to preserve editability
+3. Keep original ESA files backed up
+4. Document custom spacing settings for consistent results
+5. Create project templates for frequently used text layouts
+
+ARTAPLI FONT COLLECTIONS:
+Popular Artapli fonts with ESA mapping:
+- Bold Chain Stitch fonts
+- Satin Stitch alphabets
+- Hand-Stitch Effect fonts
+- Applique alphabets
+- Fringe fonts (use caution with resizing)
+
+Check individual product descriptions for ESA availability.
+
+SEE ALSO:
+- Guide: "Hatch 3? You Can Map Purchased Alphabets"
+- Guide: "About ESA Files and Font Mapping in Wilcom"
+- FAQ: "How do I use fonts in my software?" - artapli.shop/pages/faq
+
+================================================================================
+6. BERNINA EMBROIDERY SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+Bernina embroidery machines work with multiple software options. Artapli designs
+are fully compatible with all Bernina software and machines.
+
+BERNINA SOFTWARE OPTIONS:
+1. Bernina ART (Artista) - Professional software (Wilcom-based)
+2. Bernina Toolbox - Basic editing software (included with machines)
+3. Bernina DesignWorks - Entry-level software
+4. Third-party software: Hatch, PE-Design, Embird work with Bernina machines
+
+USING ARTAPLI DESIGNS WITH BERNINA MACHINES:
+
+Recommended File Format:
+- EXP format (Bernina's native format)
+- All Artapli designs include EXP format
+- Optimized for Bernina machines
+- Preserves color sequence and stitch quality
+
+Alternative Formats (if EXP not available):
+- DST (universal format, works but no color data)
+- PES (Brother format, usually compatible)
+
+Step-by-Step Loading Process:
+1. Download Artapli design ZIP file
+2. Extract ZIP to reveal design files
+3. Locate EXP format file
+4. Transfer to USB stick
+5. Insert USB into Bernina machine
+6. Navigate to design on machine screen
+7. Load design
+8. Check hoop size compatibility
+9. Verify thread color sequence
+10. Begin stitching
+
+BERNINA ART SOFTWARE (ARTISTA):
+Bernina's professional software is built on Wilcom technology, so instructions
+for Wilcom apply to Bernina ART users.
+
+Key Features for Artapli Designs:
+- Full editing capabilities
+- ESA font support (type text with purchased alphabets)
+- Design combination
+- Color customization
+- Format conversion (use carefully - see Wilcom conversion guide)
+
+Using ESA Fonts in Bernina ART:
+Same process as Wilcom:
+1. Import ESA file via Font Manager
+2. Font becomes available in Lettering toolbar
+3. Type text with proper spacing and baseline
+4. Adjust sizing and spacing as needed
+
+BERNINA MACHINE SERIES COMPATIBILITY:
+All Artapli designs work with:
+- Bernina 5 Series
+- Bernina 7 Series
+- Bernina 8 Series
+- Bernina 9 Series
+- Bernette embroidery machines
+
+Design Size Considerations:
+Match design to your hoop:
+- Small hoop (4x4" / 100x100mm): Use designs under 4" 
+- Medium hoop (5.5x7.9" / 145x200mm): Most Artapli designs fit
+- Large oval hoop (varies by model): Check specifications
+
+Artapli product descriptions always list multiple sizes. Choose size that fits
+your hoop with at least 0.5" margin for hooping.
+
+BERNINA-SPECIFIC DESIGN FEATURES:
+Artapli designs optimized for Bernina include:
+- Color stops set for Bernina machines
+- Stitch density appropriate for Bernina stitching speed
+- Jump stitch minimized for cleaner back
+- Proper underlay for stable stitching
+
+COMMON BERNINA QUESTIONS:
+
+Q: Design won't load on my Bernina machine
+A: Check file format. Use EXP format for Bernina. Ensure USB stick is FAT32
+formatted (not exFAT or NTFS).
+
+Q: Colors are wrong
+A: Bernina assigns colors automatically from its thread palette. You can change
+thread colors on machine before stitching. Color sequence is preserved.
+
+Q: Design is too large for hoop
+A: Check Artapli product page for multiple sizes. Download size that fits your
+hoop. Do NOT resize fringe or puffy designs.
+
+Q: Can I edit designs on Bernina machine?
+A: Bernina machines offer basic editing (rotation, mirror, resize). For specialty
+Artapli designs (fringe, puffy), do not use machine's resize function.
+
+BERNINA USB REQUIREMENTS:
+- FAT32 format
+- Maximum 32GB size recommended
+- Create "Embroidery" or "Designs" folder for organization
+- Keep designs organized by collection
+
+THREAD RECOMMENDATIONS:
+Artapli designs work with all Bernina-recommended threads:
+- Isacord polyester
+- Madeira Rayon or Polyneon
+- Sulky
+- Robison-Anton
+
+For specialty effects:
+- Fringe designs: Regular 40wt polyester or rayon
+- Puffy designs: 40wt polyester (stronger than rayon)
+- Applique: Match thread to fabric weight
+
+STABILIZER FOR BERNINA MACHINES:
+Artapli recommends:
+- Cut-away for permanent items (garments, bags)
+- Tear-away for temporary stabilization
+- Water-soluble for FSL (freestanding lace) designs
+- Specific requirements listed in product instructions
+
+BERNINA STITCH QUALITY OPTIMIZATION:
+For best results with Artapli designs:
+- Use fresh, sharp needle (size 75/11 or 80/12 for most designs)
+- Check bobbin tension (should match top thread tension)
+- Use Bernina's automatic thread tension when available
+- Test stitch on scrap fabric before final project
+
+SEE ALSO:
+- Guide: "Alphabet Fonts with Your Bernina"
+- Guide: "ART Bernina Machines"
+- FAQ: "What format works with my machine?" - artapli.shop/pages/faq
+
+================================================================================
+7. BERNINA ART MACHINES GUIDE
+================================================================================
+
+OVERVIEW:
+Bernina ART (Artista) is Bernina's professional embroidery software, built on
+Wilcom technology. It offers full digitizing and editing capabilities.
+
+SOFTWARE VERSIONS:
+- Bernina ART v3
+- Bernina ART v4  
+- Bernina ART v5 (current as of 2025)
+- Bernina Artista (older branding)
+
+RELATIONSHIP TO WILCOM:
+Bernina ART is Wilcom software with Bernina branding:
+- Same features as Wilcom E4
+- ESA font format support
+- Full digitizing tools
+- Bernina-specific optimizations
+
+USING ARTAPLI DESIGNS IN BERNINA ART:
+
+Importing Designs:
+1. Download and extract Artapli ZIP
+2. Open Bernina ART
+3. File > Open Design
+4. Select EXP or DST format
+5. Design loads ready for editing or export
+
+Best Format for Bernina ART:
+- EXP (Bernina native) - preserves all data
+- EMB (Wilcom native) - if available, full editability
+- DST - universal but less data
+
+FONT MAPPING IN BERNINA ART:
+Bernina ART supports ESA fonts identically to Wilcom:
+
+Installing Artapli ESA Fonts:
+1. Locate ESA file in Artapli download
+2. Bernina ART > Lettering > Font Manager
+3. Click "Add Font"
+4. Select ESA file
+5. Font appears in lettering dropdown
+
+Typing with Mapped Fonts:
+1. Select Text tool
+2. Choose Artapli font from list
+3. Type text - letters appear with automatic spacing
+4. Adjust size, spacing, baseline as needed
+
+BERNINA ART EDITING CAPABILITIES:
+What you can safely do with Artapli designs:
+✓ Change colors
+✓ Combine multiple designs
+✓ Add text/monograms
+✓ Export to different machine formats
+✓ Rotate or mirror (non-directional designs)
+
+What to avoid:
+✗ Auto-optimization of specialty designs
+✗ Resizing fringe/puffy designs
+✗ Converting formats unnecessarily
+✗ Removing "unnecessary" small stitches (they're intentional)
+
+BERNINA-SPECIFIC FEATURES:
+Bernina ART includes features for Bernina machines:
+- Direct USB export to Bernina format
+- Bernina thread palette pre-loaded
+- Hoop templates for all Bernina hoops
+- Machine compatibility checker
+
+DESIGN CONVERSION IN BERNINA ART:
+When converting between formats, follow same rules as Wilcom:
+- Disable automatic optimization
+- Keep original stitch data
+- Never convert specialty effect designs
+- See "Wilcom File Conversion" section for details
+
+BERNINA ART PROJECT WORKFLOW:
+1. Import Artapli design (EXP or DST)
+2. Edit if needed (colors, positioning)
+3. Combine with other elements
+4. Save as Bernina ART project (.ART file) for future editing
+5. Export to EXP format for machine
+6. Transfer to USB
+7. Load on Bernina machine
+
+LICENSING AND VERSIONS:
+Bernina ART pricing tiers:
+- Basic: Design editing only
+- Plus: Editing + simple digitizing
+- Pro: Full professional digitizing
+
+All tiers can use Artapli designs. Font mapping requires Plus or Pro tier.
+
+BERNINA ART TROUBLESHOOTING:
+
+Issue: ESA font won't import
+A: Check Bernina ART version. Older versions may not support newer ESA format.
+Update software or contact Artapli for compatible version.
+
+Issue: Design looks different after opening
+A: Check if auto-optimization is enabled. Disable in Preferences.
+
+Issue: Export creates different file size
+A: Normal. Different formats store data differently. Verify stitch count and
+dimensions match original.
+
+LEARNING RESOURCES:
+Bernina provides extensive training:
+- Bernina ART Mastery courses
+- YouTube tutorials
+- Dealer demonstrations
+- Wilcom tutorials also apply (same engine)
+
+For Artapli-specific questions:
+- Contact Artapli support
+- Reference Wilcom guides (technology is identical)
+- Check FAQ at artapli.shop/pages/faq
+
+SEE ALSO:
+- Guide: "Alphabet Fonts with Your Bernina"
+- Guide: "Files in Wilcom" (applies to Bernina ART)
+- Guide: "About ESA Files and Font Mapping"
+
+================================================================================
+8. PE-DESIGN SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+PE-Design is Brother's official embroidery software for creating and editing
+designs for Brother and Babylock embroidery machines.
+
+CURRENT VERSIONS:
+- PE-Design 12 (current as of 2026)
+- PE-Design 11 (widely used)
+- PE-Design 10 and earlier (older versions)
+
+FILE FORMATS:
+- Native: PED (PE-Design project format)
+- Machine: PES (Brother/Babylock machine format)
+- Import: All standard embroidery formats (DST, JEF, HUS, etc.)
+
+USING ARTAPLI DESIGNS IN PE-DESIGN:
+
+Recommended Format:
+- PES format (Brother native)
+- All Artapli designs include PES
+- Optimized for Brother machines
+- Includes color data and proper sequencing
+
+Importing Designs:
+1. Download Artapli design ZIP
+2. Extract files
+3. Open PE-Design
+4. File > Open
+5. Select PES file (or DST if PES not available)
+6. Design opens ready for editing or export
+
+ALPHABET FONTS IN PE-DESIGN:
+PE-Design has its own font system different from ESA (Wilcom) or BX (Embrilliance).
+
+PE-Design Font Format: PES Alphabet
+Some Artapli alphabets include PE-Design compatible format. Check product
+description for "PE-Design alphabet format included."
+
+Installing Alphabets in PE-Design 11:
+1. Locate alphabet folder in Artapli download
+2. PE-Design > Settings > Font Settings
+3. Add font folder location
+4. Font appears in lettering palette
+5. Type text with automatic spacing
+
+Using Individual Letters (when PE-Design format not included):
+1. Open first letter file (A.PES)
+2. Edit > Combine
+3. Open next letter (B.PES)
+4. Position manually
+5. Repeat for all letters in word
+6. Save combined design
+
+Manual process is time-consuming. Artapli recommends requesting PE-Design
+alphabet format if not included with purchase.
+
+PE-DESIGN EDITING FEATURES:
+Safe editing for Artapli designs:
+✓ Change thread colors
+✓ Combine multiple designs
+✓ Add monograms or text
+✓ Resize standard designs (10-15% maximum)
+✓ Rotate or mirror
+
+Unsafe editing:
+✗ Using "Optimize Stitches" on specialty designs
+✗ Resizing fringe or puffy designs beyond provided sizes
+✗ Converting between formats repeatedly
+✗ Reducing stitch count on dense designs
+
+SPECIALTY DESIGN HANDLING:
+Artapli specialty effects in PE-Design:
+
+Fringe Designs:
+- Import as PES or DST
+- Do NOT use PE-Design's stitch editor
+- Do NOT resize
+- Stitch exactly as provided
+
+Puffy Foam Designs:
+- Use PES format
+- Check color sequence (first color is usually outline/placement)
+- Do not edit stitch density
+- Use recommended foam thickness (usually 2-3mm)
+
+Applique Designs:
+- Follow color stops carefully
+- First color: Placement line
+- Second color: Tack-down (stop and place fabric)
+- Third color: Cover stitch
+- PE-Design shows color sequence in design properties
+
+PE-DESIGN VERSION COMPATIBILITY:
+Artapli PES files work with:
+- PE-Design 12: Full compatibility
+- PE-Design 11: Full compatibility
+- PE-Design 10: Compatible (some features may differ)
+- PE-Design 6-9: Basic compatibility
+
+Older versions: If using PE-Design 6-9, some newer PES features may not display
+correctly. Use DST format as fallback.
+
+BROTHER MACHINE COMPATIBILITY:
+PE-Design creates designs for:
+- Brother PR/Entrepreneur series (commercial)
+- Brother Stellaire series
+- Brother Innov-is series
+- Babylock embroidery machines (BLM, ENT, etc.)
+
+All Artapli PES files are tested on Brother machines for quality assurance.
+
+COMMON PE-DESIGN QUESTIONS:
+
+Q: Design won't open in PE-Design
+A: Check file format. PE-Design prefers PES. If using DST, some color information
+may be lost. Try right-click > Open With > PE-Design.
+
+Q: How do I change design colors?
+A: Select design > Edit > Color Sequence > Click color to change > Choose new
+thread color from palette.
+
+Q: Can I combine multiple Artapli designs?
+A: Yes. Open first design, then Edit > Combine > Open second design. Position
+as needed. Check stitch sequence to avoid conflicts.
+
+Q: Design is too big for my hoop
+A: Check Artapli product page for multiple sizes. Download appropriate size.
+If minor adjustment needed, resize 10% maximum for standard designs. Never
+resize specialty effects.
+
+CONVERTING DESIGNS IN PE-DESIGN:
+PE-Design can convert between formats:
+- File > Output > Select format
+- For Artapli designs: Disable optimization
+- Keep original stitch data intact
+- See Wilcom conversion guide for best practices (same principles apply)
+
+PE-DESIGN PROJECT WORKFLOW:
+1. Import Artapli design (PES recommended)
+2. Customize if needed (colors, combinations)
+3. Save as PED format for future editing
+4. Export to PES for Brother machine
+5. Transfer to USB
+6. Load on embroidery machine
+
+THREAD LIBRARIES IN PE-DESIGN:
+PE-Design supports multiple thread brands:
+- Brother embroidery thread (default)
+- Madeira
+- Sulky
+- Robison-Anton
+- Isacord
+
+Match Artapli design colors to your preferred thread brand in Edit > Thread
+Palette settings.
+
+LEARNING RESOURCES:
+Brother provides:
+- PE-Design manual (PDF with software)
+- Video tutorials on Brother website
+- User forums
+- Dealer training sessions
+
+For Artapli design questions:
+- artapli.shop/pages/faq
+- Contact Artapli support with PE-Design version number
+
+SEE ALSO:
+- Guide: "Alphabets in PE-Design 11"
+- FAQ: "What format do I need?" - artapli.shop/pages/faq
+- Tutorial: "How to use fonts in PE-Design"
+
+================================================================================
+9. MELCO DESIGNSHOP GUIDE
+================================================================================
+
+OVERVIEW:
+Melco DesignShop is professional embroidery software designed for Melco commercial
+embroidery machines. It offers digitizing, editing, and production management.
+
+MACHINE COMPATIBILITY:
+- Melco Amaya series
+- Melco EMT series
+- Melco Bravo
+- Other Melco commercial machines
+
+FILE FORMATS:
+- Native: CND (Melco DesignShop format)
+- Machine: EXP, DST, CND
+- Import: All standard embroidery formats
+
+USING ARTAPLI DESIGNS IN DESIGNSHOP:
+
+Best Format for Melco:
+- DST format (universal, most reliable)
+- EXP format (alternative, includes more data)
+- All Artapli designs include both formats
+
+Importing Process:
+1. Download Artapli design ZIP
+2. Extract files to organized folder
+3. Open Melco DesignShop
+4. File > Import Design
+5. Select DST or EXP file
+6. Design loads ready for production or editing
+
+ALPHABET FONTS IN DESIGNSHOP:
+Melco DesignShop has its own font system for lettering.
+
+Using Artapli Alphabets:
+Option 1: Individual Letter Placement
+- Import each letter file separately
+- Place and space manually for custom work
+- Time-consuming but maximum control
+
+Option 2: Font Conversion (Advanced)
+- Some Artapli alphabets can be converted to DesignShop fonts
+- Requires technical knowledge
+- Contact Artapli for DesignShop-specific font format
+
+Option 3: Use Lettering Software
+- Create text in compatible software (Wilcom, Hatch)
+- Export final design to DST
+- Import to DesignShop for production
+
+DESIGNSHOP EDITING CAPABILITIES:
+Safe practices with Artapli designs:
+✓ Change thread colors
+✓ Scale designs (standard designs only, 10% maximum)
+✓ Combine multiple designs
+✓ Add production notes
+
+Avoid:
+✗ Auto-optimization features
+✗ Resizing specialty designs (fringe, puffy)
+✗ Removing "small stitches" (often intentional)
+✗ Converting repeatedly between formats
+
+PRODUCTION WORKFLOW:
+Melco DesignShop is designed for commercial production:
+1. Import Artapli design
+2. Assign to specific machine
+3. Set thread colors (match to your inventory)
+4. Calculate production time
+5. Generate work order
+6. Send to Melco machine
+
+THREAD MANAGEMENT:
+DesignShop includes thread inventory system:
+- Map Artapli design colors to your thread inventory
+- Track thread usage per design
+- Calculate thread costs
+- Generate thread shopping lists
+
+Recommended threads for Artapli designs on Melco:
+- Madeira Polyneon (polyester, commercial grade)
+- Isacord (widely available, consistent quality)
+- Robison-Anton (good for high-volume production)
+
+SPECIALTY DESIGNS ON MELCO MACHINES:
+
+Fringe Designs:
+- Use DST format exactly as provided
+- Do not resize or modify
+- Test on scrap first
+- Reduce machine speed by 20-30% for best results
+- Use sharp needle (75/11 or 80/12)
+
+Puffy Foam Designs:
+- Load puffy foam during color stop
+- Use recommended foam thickness (check product description)
+- Polyester thread works better than rayon
+- Slightly reduce tension if needed
+
+Applique Designs:
+- Follow color sequence carefully
+- First stop: Placement line (mark fabric position)
+- Second stop: Tack down (secure fabric)
+- Third stop: Cover stitch (finish edges)
+
+MELCO-SPECIFIC CONSIDERATIONS:
+Commercial production requires:
+- Proper stabilization (cut-away for garments)
+- Fresh needles (change every 8 hours production)
+- Quality thread (cheap thread causes breaks)
+- Regular machine maintenance
+
+Artapli designs are tested for commercial production quality.
+
+COMMON DESIGNSHOP QUESTIONS:
+
+Q: Design won't import
+A: Check file format. Use DST (most universal). Ensure file is not corrupted
+(re-download if needed).
+
+Q: Colors don't match thread inventory
+A: Use DesignShop's thread mapper to assign colors to your thread stock. Color
+names are suggestions only.
+
+Q: Design causes thread breaks
+A: Check needle sharpness, thread quality, tension, and stabilizer. Artapli
+designs are tested to minimize breaks when used with quality materials.
+
+Q: Can I resize designs for different garment types?
+A: Standard designs can resize 10-15% safely. Specialty designs (fringe, puffy,
+chain stitch) should never be resized. Order multiple sizes from Artapli.
+
+PRODUCTION OPTIMIZATION:
+For high-volume production with Artapli designs:
+1. Test design on sample fabric before production run
+2. Document optimal settings (tension, speed, stabilizer)
+3. Keep digitized settings for repeat orders
+4. Maintain quality control samples
+5. Order designs in sizes you use most frequently
+
+TECHNICAL SUPPORT:
+For Melco DesignShop technical issues:
+- Contact Melco support
+- Reference DesignShop manual
+
+For Artapli design compatibility:
+- Contact Artapli with DesignShop version number
+- Provide machine model
+- Include error messages or photos if applicable
+
+SEE ALSO:
+- Guide: "Fonts in Melco DesignShop"
+- FAQ: "What format works with commercial machines?" - artapli.shop/pages/faq
+- Guide: "Files in Wilcom" (similar principles)
+
+================================================================================
+10. EMBRILLIANCE SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+Embrilliance is modern embroidery software for Mac and Windows, designed for
+home embroiderers. It uses modular pricing with different capability levels.
+
+SOFTWARE MODULES:
+- Embrilliance Essentials: Basic viewing and editing
+- Embrilliance Enthusiast: Advanced editing
+- Embrilliance StitchArtist: Digitizing tools
+- Embrilliance AlphaTricks: Advanced lettering
+
+FILE FORMATS:
+- Native: BE (Embrilliance project format)
+- Import/Export: All standard embroidery formats
+- Font Format: BX (Embrilliance exclusive alphabet format)
+
+USING ARTAPLI DESIGNS IN EMBRILLIANCE:
+
+Importing Designs:
+1. Download and extract Artapli ZIP
+2. Open Embrilliance
+3. File > Merge Design (or drag and drop)
+4. Select any embroidery format (DST, PES, JEF, etc.)
+5. Design appears on canvas ready for editing
+
+Recommended Format:
+- Any format works with Embrilliance
+- PES recommended (includes color data)
+- DST works but requires color assignment
+
+EMBRILLIANCE BX FONTS:
+BX is Embrilliance's proprietary font format. Key features:
+- Type complete words and sentences
+- Automatic spacing and baseline
+- Instant editing
+- Multiple sizes in one font file
+
+Using Artapli BX Fonts:
+Many Artapli alphabets include BX format. Check product description for
+"BX font included for Embrilliance."
+
+Installing BX Fonts:
+Method 1 (Automatic):
+- Double-click BX file
+- Embrilliance imports automatically
+- Font appears in lettering menu
+
+Method 2 (Manual):
+- Open Embrilliance
+- File > Merge Design
+- Select BX file
+- Font installs to library
+- Access via lettering tools
+
+Using BX Fonts:
+1. Click "A" (text tool) in toolbar
+2. Select Artapli BX font from dropdown
+3. Type your text
+4. Font renders with proper spacing
+5. Adjust size with slider (increments provided in font)
+6. Modify letter spacing if needed
+
+BX FONT ADVANTAGES:
+Compared to placing individual letters:
+✓ Type entire words instantly
+✓ Edit text without repositioning
+✓ Consistent spacing automatically
+✓ Multiple size options in one font
+✓ Baseline handled properly
+
+BX files include:
+- All letters A-Z, a-z (uppercase and lowercase)
+- Numbers 0-9
+- Common punctuation
+- Multiple pre-digitized sizes
+- Spacing data
+
+EMBRILLIANCE DESIGN EDITING:
+Safe practices with Artapli designs:
+✓ Change colors
+✓ Resize standard designs (10% maximum)
+✓ Combine multiple designs
+✓ Add text using BX fonts
+✓ Create custom projects
+
+Unsafe practices:
+✗ Using "Remove Overlap" on specialty designs
+✗ Resizing fringe or puffy designs
+✗ Converting formats repeatedly
+✗ Using "Simplify Stitches" (destroys intentional detail)
+
+EMBRILLIANCE MODULES AND ARTAPLI DESIGNS:
+
+Essentials Module:
+- View designs
+- Change colors
+- Basic resizing
+- Print templates
+- Export to machine formats
+Sufficient for using Artapli designs as-is.
+
+Enthusiast Module:
+- All Essentials features
+- Design merging
+- Advanced editing
+- Stitch editing (use carefully)
+- Better for customizing Artapli designs
+
+StitchArtist:
+- Digitizing from scratch
+- Not needed for using Artapli designs
+- Useful if you want to modify or create your own designs
+
+AlphaTricks:
+- Advanced monogramming
+- Works great with Artapli BX fonts
+- Create complex lettering layouts
+- Professional monogramming effects
+
+EMBRILLIANCE WORKFLOW WITH ARTAPLI:
+1. Open Embrilliance Essentials or Enthusiast
+2. Merge Artapli design
+3. Add text using Artapli BX font
+4. Adjust colors and positioning
+5. Save as BE file for future editing
+6. Export to your machine format (PES, JEF, etc.)
+7. Transfer to USB for stitching
+
+SPECIALTY DESIGNS IN EMBRILLIANCE:
+
+Fringe Designs:
+- Import as-is
+- Do NOT resize
+- Do NOT use "Remove Tiny Stitches"
+- Stitch exactly as provided
+
+Puffy Foam Designs:
+- Import without modification
+- Check color sequence (first color often placement)
+- Export to machine format without optimization
+
+BX Fonts with Specialty Effects:
+Some Artapli BX fonts include special effects:
+- Applique fonts: Follow color stops carefully
+- Fringe fonts: Use provided sizes, don't resize
+- Puffy fonts: Match to specified foam thickness
+
+TROUBLESHOOTING EMBRILLIANCE:
+
+Issue: BX font won't install
+Solution: Check Embrilliance version. Update to latest. Verify BX file is not
+corrupted (re-download). Some BX fonts require Enthusiast or AlphaTricks.
+
+Issue: Design looks different than preview
+Solution: Embrilliance preview is simplified. Use "Realistic" view mode for
+accurate representation. Actual stitch-out will match design.
+
+Issue: Can't find installed BX font
+Solution: Look in lettering dropdown. BX fonts appear by name. Use search
+function if you have many fonts installed.
+
+Issue: Typed text has spacing issues
+Solution: Some fonts need spacing adjustment. Use letter spacing slider.
+Different sizes may need different spacing settings.
+
+EMBRILLIANCE ADVANTAGES FOR ARTAPLI CUSTOMERS:
+- Cross-platform (Mac and Windows)
+- Works with all embroidery machine brands
+- Excellent BX font support
+- One-time purchase (no subscription)
+- Regular updates and improvements
+- Large user community
+
+LEARNING RESOURCES:
+Embrilliance provides:
+- Video tutorials (Embrilliance YouTube channel)
+- User manual (PDF)
+- Active Facebook user group
+- Regular webinars
+
+For Artapli BX fonts:
+- Installation instructions included with purchase
+- FAQ at artapli.shop/pages/faq
+- Contact Artapli for BX-specific questions
+
+SEE ALSO:
+- FAQ: "How do I use BX fonts?" - artapli.shop/pages/faq
+- Guide: "Circle font usage BX Embrilliance"
+- Community: Embrilliance Users Facebook Group
+
+================================================================================
+11. EMBIRD SOFTWARE GUIDE
+================================================================================
+
+OVERVIEW:
+Embird is affordable embroidery software for Windows, popular among home
+embroiderers for editing and managing designs. Known for reliability and
+comprehensive format support.
+
+SOFTWARE MODULES:
+- Embird Basic: Viewing, editing, cataloging
+- Embird Studio: Digitizing module
+- Embird Font Engine: Advanced lettering
+- Various plugins for special features
+
+FILE FORMATS:
+- Native: None (works directly with machine formats)
+- Supported: Over 70 embroidery formats including all major brands
+- Font: Embird Font Objects (.EOF)
+
+USING ARTAPLI DESIGNS IN EMBIRD:
+
+Importing Designs:
+1. Download Artapli ZIP and extract
+2. Open Embird Editor
+3. File > Open
+4. Select any format (DST, PES, JEF, EXP, etc.)
+5. Design loads ready for editing
+
+Recommended Format:
+- DST (universal compatibility)
+- Your machine's native format (PES for Brother, JEF for Janome, etc.)
+- Embird reads all formats equally well
+
+EMBIRD EDITING CAPABILITIES:
+Safe edits for Artapli designs:
+✓ Change thread colors
+✓ Resize designs (standard designs, 10-15% maximum)
+✓ Rotate and mirror
+✓ Combine multiple designs
+✓ Export to different formats
+
+Avoid:
+✗ Using "Remove Small Stitches" on specialty designs
+✗ Auto-density adjustments
+✗ Resizing fringe or puffy designs
+✗ Aggressive optimization
+
+ALPHABET FONTS IN EMBIRD:
+Embird Font Engine allows typing with alphabet designs.
+
+Using Artapli Alphabets:
+If Artapli alphabet includes Embird format (.EOF):
+1. Copy .EOF file to Embird's font folder
+2. Restart Embird
+3. Font appears in Font Engine
+4. Type text with automatic spacing
+
+If Embird format not included:
+1. Import individual letter files
+2. Place manually
+3. Or request .EOF format from Artapli support
+
+Creating Embird Font from Letters (Advanced):
+Embird Font Engine allows creating fonts from individual letters:
+1. Import all letter files
+2. Font Engine > Create New Font
+3. Assign each letter to keyboard character
+4. Set spacing and baseline
+5. Save as .EOF file
+This is time-consuming. Use provided formats when available.
+
+EMBIRD CATALOG:
+Embird includes powerful cataloging system:
+- Organize Artapli purchases by collection
+- View thumbnails
+- Search by keyword
+- Quick access to frequently used designs
+
+Setting up Artapli Catalog:
+1. Create folder for Artapli designs
+2. Organize by product/collection
+3. Embird Catalog > Add Folder
+4. Catalog generates thumbnails automatically
+5. Search and insert designs quickly
+
+EMBIRD FORMAT CONVERSION:
+Embird excels at format conversion:
+- File > Save As > Choose format
+- For Artapli designs: Use "Write without modification" option
+- Preserves original stitch data
+- No automatic optimization
+
+Safe conversion practices:
+✓ Convert standard designs between formats
+✓ Use batch conversion for multiple files
+✓ Keep originals backed up
+
+Unsafe practices:
+✗ Converting specialty designs (fringe, puffy)
+✗ Using "Optimize" during conversion
+✗ Converting between formats repeatedly (degradation)
+
+SPECIALTY DESIGNS IN EMBIRD:
+
+Fringe Designs:
+- Open in Embird without modification
+- Do NOT resize
+- Do NOT use density tools
+- Stitch as-is for proper fringe effect
+
+Puffy Foam Designs:
+- Import directly
+- Check color sequence
+- First color usually placement/outline
+- Do not modify stitch structure
+
+Applique Designs:
+- Color sequence is critical
+- First: Placement line
+- Second: Tack-down (place fabric during this stop)
+- Third: Cover/satin stitch
+
+EMBIRD ICONIZER:
+Unique Embird feature: Iconizer creates thread color previews
+- Automatically generates realistic preview
+- Shows actual thread colors
+- Helps plan thread changes
+- Visual reference for color matching
+
+Use Iconizer with Artapli designs to:
+- Preview final appearance
+- Match thread brands to your inventory
+- Plan color substitutions
+
+EMBIRD CROSS STITCH MODULE:
+Some Embird versions include cross-stitch conversion.
+Note: Artapli designs are machine embroidery, not cross-stitch patterns.
+Do not convert Artapli designs to cross-stitch.
+
+TECHNICAL SPECIFICATIONS:
+- Platform: Windows only
+- Maximum design size: Limited by machine format
+- Thread brands: All major brands supported
+- File limit: No practical limit
+
+COMMON EMBIRD QUESTIONS:
+
+Q: Design file won't open
+A: Embird reads almost all formats. If file won't open, it may be corrupted.
+Re-download from Artapli. Ensure file has correct extension (.dst, .pes, etc.).
+
+Q: How do I change thread brands?
+A: Tools > Thread Palette > Select your thread brand. Embird remaps all colors
+to closest match in your brand.
+
+Q: Can I edit stitch types?
+A: Embird Editor allows stitch editing. For Artapli designs, avoid editing
+stitches unless you understand digitizing. Modifications can destroy effects.
+
+Q: Design is too large
+A: Check Artapli product page for multiple sizes. Download appropriate size.
+Minor resize (10%) is safe for standard designs, but not specialty designs.
+
+EMBIRD ADVANTAGES:
+- One-time purchase (no subscription)
+- Affordable compared to professional software
+- Excellent format compatibility
+- Reliable and stable
+- Active user community
+- Regular updates
+
+LEARNING RESOURCES:
+- Embird documentation (comprehensive manual)
+- Embird Tutorials website
+- User forums
+- YouTube videos from community
+
+For Artapli-specific questions:
+- artapli.shop/pages/faq
+- Contact Artapli support
+
+SEE ALSO:
+- Guide: "How to Use Alphabets in Embird"
+- FAQ: "What software do I need?" - artapli.shop/pages/faq
+
+================================================================================
+12. ESA FILE FORMAT TECHNICAL REFERENCE
+================================================================================
+
+WHAT IS ESA:
+ESA (Embroidery Sequence Archive) is Wilcom's proprietary alphabet format.
+It stores embroidery letters as a mapped font, enabling typing instead of
+placing individual letters.
+
+SOFTWARE COMPATIBILITY:
+ESA format works with:
+✓ Wilcom (all versions)
+✓ Hatch Embroidery (all versions)
+✓ Bernina ART/Artista
+✓ Some commercial embroidery software
+
+Does NOT work with:
+✗ Embrilliance (uses BX format instead)
+✗ PE-Design (uses PES alphabet format)
+✗ Embbird (uses EOF format)
+✗ Basic embroidery machines (machines don't read ESA directly)
+
+ESA FILE STRUCTURE:
+ESA files contain:
+- Individual letter/character designs (A-Z, a-z, 0-9, punctuation)
+- Left bearing (space before letter)
+- Right bearing (space after letter)
+- Baseline position (vertical alignment)
+- Default sizing information
+- Kerning pairs (spacing between specific letter combinations)
+
+BENEFITS OF ESA FORMAT:
+Compared to individual letter files:
+- Type continuous text instead of placing letters
+- Automatic letter spacing
+- Consistent baseline alignment
+- Easy editing (change text without repositioning)
+- Professional results
+- Time savings (minutes vs hours for long text)
+
+USING ARTAPLI ESA FONTS:
+When you purchase Artapli alphabet that includes ESA:
+
+Installation:
+1. Download ZIP and extract
+2. Locate .ESA file
+3. Double-click ESA file (Wilcom/Hatch auto-imports)
+   OR
+   Open software > Font Manager > Import Font > Select ESA
+4. Font appears in lettering menu
+5. Ready to use for typing
+
+Typing Text:
+1. Select Text/Lettering tool
+2. Choose Artapli font from dropdown
+3. Type your text
+4. Font renders with proper spacing
+5. Adjust size (usually multiple sizes built into ESA)
+6. Modify spacing percentage if needed
+
+ARTAPLI ESA DESIGN PHILOSOPHY:
+Artapli ESA fonts include:
+- Multiple pre-digitized sizes (saves resizing/quality loss)
+- Optimized spacing for professional appearance
+- Proper baseline for mixed case text
+- Tested kerning for common letter pairs
+
+Specialty ESA fonts:
+- Fringe fonts: Multiple sizes, no resizing allowed
+- Applique fonts: Color stops for fabric placement
+- 3D fonts: Specific stitch sequences preserved
+
+TECHNICAL CONSIDERATIONS:
+ESA files are binary format (not human-readable):
+- Cannot be edited in text editor
+- Require Wilcom-family software to modify
+- Size varies (typically 50KB - 2MB depending on complexity)
+- Cross-platform (Mac and Windows with compatible software)
+
+ESA FONT PROPERTIES:
+After importing, you can modify in Font Manager:
+- Default sizes (small, medium, large presets)
+- Letter spacing (percentage adjustment)
+- Baseline shift (for special effects)
+- Envelope settings (curved or arced text)
+
+CREATING ESA FROM INDIVIDUAL LETTERS (Advanced):
+Wilcom and Hatch allow creating ESA from letter files:
+1. Import all letters (A-Z, 0-9, punctuation)
+2. Font Manager > Create New Alphabet
+3. Assign each letter to keyboard key
+4. Set spacing (measure and input bearing values)
+5. Define baseline
+6. Test and refine spacing
+7. Save as ESA file
+
+This requires digitizing knowledge. Artapli provides ESA when creating fonts,
+saving customers this complex process.
+
+ESA VERSION COMPATIBILITY:
+ESA format has versions:
+- Older ESA (Wilcom E2, E3 era)
+- Modern ESA (Wilcom E4, Hatch 2+)
+
+Artapli ESA fonts are created in modern format. If you have very old Wilcom:
+- Update software (recommended)
+- Or contact Artapli for legacy format
+
+TROUBLESHOOTING ESA:
+
+Issue: ESA won't import
+Solutions:
+- Verify software version (Wilcom/Hatch/Bernina ART)
+- Update software to latest version
+- Check file is not corrupted (re-download)
+- Ensure .ESA extension is present
+- Try manual import via Font Manager
+
+Issue: Font appears but letters overlap
+Solutions:
+- Adjust letter spacing in text properties
+- Check baseline settings
+- Some fonts designed with tight spacing (intentional for specific looks)
+
+Issue: Missing characters
+Solutions:
+- Check product description (some fonts are uppercase only)
+- Verify complete ESA installed (not partial)
+- Some specialty fonts include limited character sets
+
+Issue: Sizing problems
+Solutions:
+- Use size presets built into ESA
+- Avoid custom sizing on specialty fonts (fringe, puffy)
+- For standard fonts, 10-15% resize is safe
+
+ESA VS OTHER FONT FORMATS:
+Comparison:
+
+ESA (Wilcom/Hatch):
+✓ Professional software standard
+✓ Full control over spacing and baseline
+✓ Multiple sizes in one file
+✓ Industry standard for commercial work
+
+BX (Embrilliance):
+✓ Modern format
+✓ Similar features to ESA
+✓ Better for home embroiderers
+✓ Cross-platform friendly
+
+PES Alphabet (PE-Design):
+✓ Integrated with Brother software
+✓ Simple to use
+✓ Limited to PE-Design software
+
+Individual Letters:
+✓ Universal compatibility (any software)
+✓ Maximum creative control
+✗ Time-consuming
+✗ Manual spacing required
+
+ARTAPLI ESA QUALITY ASSURANCE:
+All Artapli ESA fonts are:
+- Tested in multiple Wilcom/Hatch versions
+- Spacing verified for professional appearance
+- Multiple sizes tested for quality
+- Includes complete character sets (when applicable)
+- Documented with usage notes
+
+ESA FONT LICENSING:
+ESA fonts purchased from Artapli:
+- Personal and commercial use allowed
+- Cannot resell or redistribute ESA file itself
+- Can sell finished embroidered products
+- See Artapli license terms for details
+
+SEE ALSO:
+- Guide: "About ESA Files and Font Mapping in Wilcom"
+- Guide: "Hatch Font Mapping"
+- Guide: "Alphabet Fonts with Your Bernina"
+- FAQ: "What is ESA format?" - artapli.shop/pages/faq
+
+================================================================================
+13. EMBROIDERY ANALYZER APP DOCUMENTATION
+================================================================================
+
+OVERVIEW:
+Embroidery Analyzer is a free web-based tool by Artapli for analyzing embroidery
+design files. Provides detailed technical information about designs without
+requiring professional software.
+
+ACCESS:
+- URL: Available through artapli.shop/pages/app-embroidery-analyzer
+- Platform: Web browser (Chrome, Firefox, Safari, Edge)
+- Cost: Free
+- Login: Not required
+
+KEY FEATURES:
+1. File format detection
+2. Stitch count analysis
+3. Color sequence display
+4. Design dimensions
+5. Thread length estimation
+6. Color change count
+7. Estimated stitching time
+
+SUPPORTED FILE FORMATS:
+The Analyzer reads:
+- DST (most common)
+- PES (Brother)
+- JEF (Janome)
+- HUS (Husqvarna)
+- EXP (Bernina/Melco)
+- VIP (Pfaff)
+- XXX (Singer)
+- And 50+ other formats
+
+HOW TO USE EMBROIDERY ANALYZER:
+
+Step 1: Access Tool
+- Visit artapli.shop
+- Navigate to Apps section
+- Click "Embroidery Analyzer"
+- Tool loads in browser
+
+Step 2: Upload Design
+- Click "Choose File" or drag-and-drop
+- Select embroidery file from computer
+- File uploads instantly (processed in browser, not sent to server)
+- Analysis appears within seconds
+
+Step 3: Review Analysis
+Tool displays:
+- File name and format
+- Design size (width x height in mm and inches)
+- Total stitch count
+- Number of colors
+- Thread length per color
+- Estimated stitching time
+- Color sequence
+
+Step 4: Use Information
+- Verify design fits your hoop
+- Plan thread colors
+- Estimate project time
+- Check stitch density
+
+PRACTICAL USES:
+
+Before Purchasing:
+- Verify design size matches your needs
+- Check stitch count (indicates detail level)
+- Review color complexity
+- Estimate materials needed
+
+Before Stitching:
+- Confirm design fits hoop
+- Prepare correct number of thread colors
+- Calculate approximate stitching time
+- Plan thread changes
+
+Quality Assessment:
+- Compare stitch count to design size (density check)
+- Very high stitch count may indicate over-digitizing
+- Very low stitch count may lack detail
+- Artapli designs are optimized for balanced stitch density
+
+Project Planning:
+- Calculate thread requirements for multiple items
+- Plan production schedule (commercial users)
+- Estimate material costs
+- Verify format compatibility with your machine
+
+UNDERSTANDING ANALYZER RESULTS:
+
+Stitch Count:
+- Indicates design complexity
+- Typical range: 5,000-50,000 stitches for most designs
+- Specialty designs may exceed 100,000 stitches
+- Higher count ≠ better quality (efficiency matters)
+
+Design Dimensions:
+- Shown in millimeters and inches
+- Compare to your hoop size
+- Leave 0.5" margin minimum for hooping
+- Artapli provides multiple sizes for flexibility
+
+Thread Length:
+- Total thread needed per color
+- Useful for inventory planning
+- Add 10-15% for thread changes and trimming
+- Helps calculate project costs
+
+Estimated Stitch Time:
+- Based on standard machine speed (700 SPM)
+- Actual time varies by:
+  * Your machine speed setting
+  * Thread changes
+  * Fabric type
+  * Stabilizer
+- Use as rough estimate, not exact prediction
+
+Color Stops:
+- Number of thread changes required
+- More stops = more hands-on time
+- Applique designs have intentional stops
+- Specialty effects may have frequent stops (normal)
+
+PRIVACY AND SECURITY:
+Embroidery Analyzer:
+- Processes files locally in your browser
+- Does NOT upload designs to server
+- No data collection
+- No login required
+- Completely private analysis
+
+TECHNICAL SPECIFICATIONS:
+- File size limit: 10MB
+- Processing: Client-side JavaScript
+- Speed: Instant analysis (< 1 second)
+- Accuracy: Reads native stitch data
+- Browser requirements: Modern browser with JavaScript enabled
+
+LIMITATIONS:
+Analyzer does NOT:
+- Edit designs
+- Convert formats
+- Display visual preview (shows data only)
+- Modify files
+- Save analysis (screenshot for records)
+
+For editing, use embroidery software. For conversion, see DST Optimizer.
+
+TROUBLESHOOTING:
+
+Issue: File won't upload
+Solutions:
+- Check file size (must be < 10MB)
+- Verify file extension (.dst, .pes, .jef, etc.)
+- Try different browser
+- Ensure JavaScript enabled
+
+Issue: Analysis shows unexpected results
+Solutions:
+- Verify correct file uploaded
+- Some formats store data differently (normal)
+- Compare to software analysis for verification
+- Contact Artapli if Artapli-purchased design shows odd data
+
+Issue: Estimated time seems wrong
+Solutions:
+- Calculation based on standard 700 SPM machine speed
+- Adjust mentally for your machine
+- Add time for thread changes
+- Test actual stitch time for future reference
+
+COMPARING DESIGNS:
+Use Analyzer to compare:
+- Different size options (which fits your hoop?)
+- Similar designs (which has detail level you need?)
+- File formats (do they contain same data?)
+- Before and after edits (did changes affect stitch count?)
+
+MOBILE USE:
+Analyzer works on phones/tablets:
+- Responsive design
+- Touch-friendly interface
+- Same features as desktop
+- Useful for checking designs on-the-go
+
+RELATED TOOLS:
+Other Artapli apps:
+- DST Optimizer: Convert and optimize DST files
+- Embroidery Previewer: Visual preview of designs
+- Design Combiner: Merge multiple designs
+
+SEE ALSO:
+- Guide: "App Embroidery Analyzer" - Full tutorial
+- Apps page: artapli.shop/pages/apps
+- FAQ: "How do I know if design fits my hoop?" - artapli.shop/pages/faq
+
+================================================================================
+14. DST OPTIMIZER TOOL DOCUMENTATION
+================================================================================
+
+OVERVIEW:
+DST Optimizer is free web-based tool by Artapli for converting and optimizing
+DST embroidery files. Reduces file size and removes unnecessary jump stitches
+while preserving design quality.
+
+PURPOSE:
+DST files from some sources contain:
+- Excessive jump stitches
+- Long trim commands
+- Unnecessary color changes
+- Bloated file size
+
+DST Optimizer cleans these issues for smoother stitching.
+
+ACCESS:
+- URL: artapli.shop/pages/dst-optimizer
+- Platform: Web browser
+- Cost: Free
+- No registration required
+
+KEY FEATURES:
+1. Remove long jump stitches
+2. Optimize trim commands
+3. Reduce file size
+4. Preserve design integrity
+5. Batch processing
+6. Preview before/after statistics
+
+WHEN TO USE DST OPTIMIZER:
+
+Use for:
+✓ DST files that cause thread breaks from long jumps
+✓ Designs with excessive trim commands
+✓ Files that stitch slowly due to inefficient pathing
+✓ DST files that need format conversion
+
+Do NOT use for:
+✗ Specialty Artapli designs (already optimized)
+✗ Designs where jump stitches are intentional
+✗ Files in perfect working condition
+✗ Non-DST formats (tool is DST-specific)
+
+HOW TO USE DST OPTIMIZER:
+
+Step 1: Upload DST File
+- Visit DST Optimizer page
+- Click "Choose File"
+- Select DST file from computer
+- File uploads for processing
+
+Step 2: Choose Optimization Level
+Options:
+- Light: Removes only excessive jumps (safest)
+- Medium: Balances optimization and safety (recommended)
+- Aggressive: Maximum optimization (use carefully)
+
+For Artapli designs or unknown sources: Use Light or Medium
+
+Step 3: Process
+- Click "Optimize"
+- Tool analyzes DST file
+- Optimization happens in seconds
+- Results display before/after statistics
+
+Step 4: Review Results
+Tool shows:
+- Original stitch count
+- Optimized stitch count
+- Stitches removed
+- File size reduction
+- Estimated time savings
+
+Step 5: Download
+- Click "Download Optimized DST"
+- Save to computer
+- Test on scrap fabric before production
+- Keep original file as backup
+
+OPTIMIZATION LEVELS EXPLAINED:
+
+Light Optimization:
+- Removes jumps > 10mm
+- Preserves all design elements
+- Safest option
+- Minimal risk
+- Best for: First-time use, important projects
+
+Medium Optimization (Recommended):
+- Removes jumps > 7mm
+- Reduces excessive trims
+- Balances efficiency and safety
+- Suitable for most designs
+- Best for: General use, tested designs
+
+Aggressive Optimization:
+- Removes jumps > 5mm
+- Maximum trim reduction
+- Significant file size reduction
+- Higher risk of altering design
+- Best for: Problematic files, experienced users who will test first
+
+TECHNICAL DETAILS:
+
+What Gets Removed:
+- Long jump stitches between sections
+- Redundant trim commands
+- Excessive color changes (if same color)
+- Unnecessary path optimization
+
+What Gets Preserved:
+- All visible stitches
+- Design shape and size
+- Stitch density
+- Intentional color stops
+- Specialty stitch types
+
+Algorithm:
+- Analyzes stitch-by-stitch
+- Identifies inefficient jumps
+- Calculates optimal path
+- Removes safe-to-remove elements
+- Rebuilds DST with same visual result
+
+WHEN OPTIMIZATION HELPS:
+
+Problem: Commercial machine creates long thread tails
+Solution: DST Optimizer removes excessive jumps causing tails
+
+Problem: Design has too many trim commands (machine pauses frequently)
+Solution: Optimizer consolidates trims
+
+Problem: DST file is unusually large (slow to load)
+Solution: Optimization reduces file size 20-50%
+
+Problem: Design from unknown source stitches poorly
+Solution: Clean up inefficient pathing
+
+ARTAPLI DESIGNS AND OPTIMIZATION:
+Note: Artapli designs are pre-optimized during creation
+- Already have efficient pathing
+- Jump stitches are intentional and minimal
+- No need to optimize Artapli DST files
+- Use optimizer for DST files from other sources
+
+WHY DST FORMAT:
+DST is universal format but:
+- No embedded optimization data
+- Different digitizers use different standards
+- Machine settings vary
+- Optimizer standardizes for best results
+
+SAFETY CONSIDERATIONS:
+Always:
+✓ Keep original file before optimizing
+✓ Test optimized file on scrap first
+✓ Start with Light optimization
+✓ Compare visual appearance after optimization
+✓ Document settings that work for your machine
+
+Never:
+✗ Optimize without testing first
+✗ Use Aggressive mode without experience
+✗ Optimize specialty designs (fringe, puffy) - use original
+✗ Optimize multiple times (degrades quality)
+
+TROUBLESHOOTING:
+
+Issue: Optimized file looks different
+Solution: Use lighter optimization level. Some jumps may be intentional.
+Return to original file.
+
+Issue: Design stitches poorly after optimization
+Solution: Original had intentional jumps for fabric relief. Use original
+or try Light optimization only.
+
+Issue: File won't process
+Solution: Check file is valid DST format. Try different browser. Verify
+file not corrupted.
+
+Issue: No improvement in file size
+Solution: File was already optimized. No action needed.
+
+BATCH PROCESSING:
+For multiple files:
+- Process one at a time
+- Document settings used
+- Test first file before batch-processing others
+- Keep consistent optimization level for similar designs
+
+MOBILE COMPATIBILITY:
+DST Optimizer works on:
+- Smartphones
+- Tablets
+- Desktop computers
+- Any device with modern browser
+
+PRIVACY:
+- Files processed locally in browser
+- No upload to server
+- No data collection
+- Completely private
+
+RELATED TOOLS:
+- Embroidery Analyzer: Check file statistics
+- Embroidery Previewer: Visual preview
+- Design Combiner: Merge multiple files
+
+SEE ALSO:
+- Guide: "DST Optimizer" - Detailed tutorial
+- Technical: "Why DST Files Create Long Jump Threads"
+- FAQ: "How do I fix thread breaks?" - artapli.shop/pages/faq
+
+================================================================================
+15. EMBROIDERY PREVIEWER APP DOCUMENTATION
+================================================================================
+
+OVERVIEW:
+Embroidery Previewer is free web-based visualization tool by Artapli. Displays
+realistic preview of embroidery designs without requiring embroidery software.
+
+PURPOSE:
+- View designs before purchasing
+- Preview designs before stitching
+- Check design appearance without software
+- Share visual previews with clients
+- Verify design details
+
+ACCESS:
+- URL: artapli.shop/pages/embroidery-previewer-app
+- Platform: Web browser (all devices)
+- Cost: Free
+- No login required
+
+KEY FEATURES:
+1. Realistic stitch rendering
+2. Multiple view modes (3D, realistic, schematic)
+3. Color customization
+4. Zoom and pan
+5. Rotate design
+6. Thread brand selection
+7. Background color options
+8. Screenshot/export preview
+
+SUPPORTED FILE FORMATS:
+Previewer reads:
+- DST, PES, JEF, HUS, EXP, VIP, XXX
+- 50+ embroidery formats
+- Most common formats supported
+
+HOW TO USE EMBROIDERY PREVIEWER:
+
+Step 1: Load Design
+- Visit Embroidery Previewer page
+- Click "Upload Design" or drag-and-drop
+- Select embroidery file
+- Preview generates automatically
+
+Step 2: Choose View Mode
+Options:
+- Realistic View: Shows design as it will stitch
+- 3D View: Shows texture and dimension
+- Schematic View: Technical view with stitch paths
+- Outline View: Simplified shape view
+
+Step 3: Customize Display
+- Change background color (white, black, fabric textures)
+- Adjust zoom level
+- Rotate design
+- Pan to view different areas
+
+Step 4: Customize Colors (Optional)
+- Click color in palette
+- Choose new thread color
+- Select thread brand (Madeira, Isacord, etc.)
+- Preview updates instantly
+
+Step 5: Export or Screenshot
+- Use browser screenshot
+- Share preview image
+- Save for reference
+
+PRACTICAL APPLICATIONS:
+
+Before Purchasing:
+- See actual design appearance
+- Verify detail level
+- Check color combinations
+- Assess complexity
+
+Before Stitching:
+- Preview with your actual thread colors
+- Verify design orientation
+- Check color sequence
+- Plan thread changes
+
+Client Presentations:
+- Show design mockup to clients
+- Demonstrate color options
+- Get approval before stitching
+- Professional presentation
+
+Quality Assessment:
+- Examine stitch density
+- Check for gaps or overlaps
+- Verify underlay visibility
+- Assess overall quality
+
+VIEW MODES EXPLAINED:
+
+Realistic View:
+- Most accurate representation
+- Shows stitches as they'll appear on fabric
+- Best for final verification
+- Simulates actual thread sheen
+
+3D View:
+- Shows design dimension and texture
+- Highlights raised stitches (satin, column)
+- Useful for assessing depth
+- Great for presentation
+
+Schematic View:
+- Technical view showing stitch paths
+- Displays stitch direction
+- Shows underlay stitches
+- Useful for technical analysis
+
+Outline View:
+- Simplified shape display
+- Fast rendering
+- Good for size verification
+- Shows basic structure
+
+COLOR CUSTOMIZATION:
+
+Changing Thread Colors:
+1. Click color box in design palette
+2. Color picker appears
+3. Choose from:
+   - Standard colors
+   - Thread brand palettes (Madeira, Isacord, Sulky, etc.)
+   - Custom color picker
+4. Preview updates instantly
+
+Thread Brand Matching:
+- Select your thread brand
+- Colors match real thread numbers
+- Plan exact threads needed
+- Create shopping list
+
+Saving Color Schemes:
+- Screenshot with final colors
+- Reference for future projects
+- Share with clients for approval
+
+BACKGROUND OPTIONS:
+
+Available Backgrounds:
+- White (default, clean view)
+- Black (shows light threads better)
+- Gray (neutral, professional)
+- Fabric textures (white, colored, denim, etc.)
+
+Choosing Background:
+Match to your intended fabric for realistic preview
+- White background for white/light fabrics
+- Black for dark fabrics
+- Fabric texture for realistic mockup
+
+ZOOM AND NAVIGATION:
+
+Controls:
+- Mouse wheel: Zoom in/out
+- Click-drag: Pan around design
+- Buttons: +/- zoom controls
+- Reset button: Return to full view
+
+Detail Inspection:
+- Zoom to 400% for stitch detail
+- Check letter clarity
+- Verify small elements
+- Inspect stitch density
+
+TECHNICAL SPECIFICATIONS:
+
+Performance:
+- Instant preview generation (< 2 seconds)
+- Smooth zoom and pan
+- Real-time color updates
+- Works on mobile devices
+
+File Size:
+- Handles files up to 10MB
+- Most designs preview instantly
+- Very complex designs may take 3-5 seconds
+
+Accuracy:
+- Renders actual stitch data
+- Shows true stitch density
+- Accurate color representation
+- Realistic thread appearance
+
+LIMITATIONS:
+
+Previewer does NOT:
+- Edit designs
+- Convert formats
+- Modify files
+- Save designs with new colors (preview only)
+- Show fabric pucker or tension issues
+- Simulate specialty threads (metallic, glow-in-dark)
+
+For editing, use embroidery software.
+
+MOBILE USE:
+
+Features on Mobile:
+- Full preview functionality
+- Touch zoom and pan
+- Color customization
+- All view modes
+- Screenshot capability
+
+Optimized for:
+- Smartphones
+- Tablets
+- Touch interfaces
+- Small screens
+
+SHARING PREVIEWS:
+
+Methods:
+- Screenshot preview
+- Share URL (if design is public)
+- Email screenshot
+- Show on screen to client
+
+Professional Use:
+- Present to clients before production
+- Get color approval
+- Show design options
+- Build customer confidence
+
+PRIVACY AND SECURITY:
+
+Previewer:
+- Processes files locally in browser
+- Does NOT upload to server
+- No data storage
+- No login required
+- Completely private
+- Your designs stay on your computer
+
+COMPARING TO SOFTWARE PREVIEW:
+
+Advantages of Web Previewer:
+✓ No software installation required
+✓ Works on any device
+✓ Fast and lightweight
+✓ Free
+✓ Easy to share results
+
+Software Preview Advantages:
+✓ More editing options
+✓ Format conversion
+✓ Design modification
+✓ Advanced features
+
+Use Previewer for quick checks and client presentations.
+Use software for editing and production.
+
+TROUBLESHOOTING:
+
+Issue: Design won't preview
+Solutions:
+- Check file format supported
+- Verify file not corrupted
+- Try different browser
+- Check file size < 10MB
+
+Issue: Colors look wrong
+Solutions:
+- Adjust thread brand selection
+- Check monitor color calibration
+- Try different background color
+- Remember: Screen colors differ from actual thread
+
+Issue: Preview is slow
+Solutions:
+- Reduce design complexity if possible
+- Close other browser tabs
+- Try different device
+- Wait for processing (very complex designs take time)
+
+Issue: Can't see details
+Solutions:
+- Use zoom feature
+- Try different view mode
+- Adjust background color for contrast
+
+ARTAPLI DESIGN GALLERY:
+
+Many Artapli products include:
+- Pre-rendered previews in product photos
+- Multiple color variations shown
+- Realistic mockups on garments
+
+Use Previewer to:
+- Try additional color combinations
+- See design from different angles
+- Customize for your project
+
+RELATED TOOLS:
+- Embroidery Analyzer: Technical data analysis
+- DST Optimizer: File optimization
+- Design Combiner: Merge designs
+
+SEE ALSO:
+- Guide: "Embroidery Previewer app" - Detailed tutorial
+- Apps: artapli.shop/pages/apps
+- Gallery: View pre-rendered design previews
+
+================================================================================
+16. DESIGN COMBINER TOOL DOCUMENTATION
+================================================================================
+
+OVERVIEW:
+Free Design Combiner is web-based tool by Artapli for merging multiple embroidery
+designs into single file. Combine designs, add text, create custom layouts without
+professional software.
+
+PURPOSE:
+- Combine multiple Artapli designs
+- Create custom design layouts
+- Add text to designs
+- Make monograms from letter files
+- Produce ready-to-stitch combined files
+
+ACCESS:
+- URL: artapli.shop/pages/free-design-combiner-app
+- Platform: Web browser
+- Cost: Free
+- No registration required
+
+KEY FEATURES:
+1. Drag-and-drop design placement
+2. Unlimited designs in one file
+3. Resize elements individually
+4. Rotate designs
+5. Mirror/flip designs
+6. Layer management
+7. Alignment tools
+8. Export to DST format
+
+SUPPORTED FORMATS:
+
+Input:
+- Reads: DST, PES, JEF, HUS, EXP and 50+ formats
+- Import multiple different formats simultaneously
+
+Output:
+- Exports: DST (universal format)
+- Compatible with all embroidery machines
+
+HOW TO USE DESIGN COMBINER:
+
+Step 1: Start New Project
+- Visit Design Combiner page
+- Set canvas size (match your hoop size)
+- Choose hoop template (4x4", 5x7", etc.)
+
+Step 2: Import Designs
+- Click "Add Design" or drag-and-drop
+- Select embroidery file(s)
+- Design appears on canvas
+- Repeat for additional designs
+
+Step 3: Arrange Designs
+- Click-drag to position
+- Resize using corner handles
+- Rotate with rotation handle
+- Align using grid or guides
+
+Step 4: Adjust Properties
+For each design:
+- Resize percentage
+- Rotation angle
+- Mirror (flip horizontal/vertical)
+- Layer order (front/back)
+
+Step 5: Verify Layout
+- Check spacing between designs
+- Ensure no overlaps (unless intentional)
+- Verify all elements within hoop boundary
+- Preview final layout
+
+Step 6: Export Combined Design
+- Click "Export"
+- Choose DST format
+- Download combined file
+- Transfer to USB for stitching
+
+PRACTICAL USES:
+
+Creating Monograms:
+- Import individual letter files
+- Arrange in monogram layout
+- Resize for visual hierarchy
+- Export single monogram design
+
+Combining Design Elements:
+- Add border to main design
+- Place motifs around text
+- Create custom compositions
+- Balanced layouts
+
+Multi-Design Projects:
+- Combine front and back designs
+- Create matched sets
+- Production efficiency
+- Single file for complex projects
+
+Adding Text to Designs:
+- Import letter files
+- Spell name or word
+- Position around/below design
+- Complete personalized design
+
+CANVAS SETTINGS:
+
+Hoop Size Selection:
+Choose your hoop:
+- 4x4" (100x100mm) - Small hoop
+- 5x7" (130x180mm) - Medium hoop  
+- 6x10" (150x250mm) - Large hoop
+- Custom size
+
+Canvas shows:
+- Hoop boundary
+- Safe stitching area
+- Grid for alignment
+- Measurement rulers
+
+DESIGN MANIPULATION:
+
+Positioning:
+- Click-drag to move
+- Arrow keys for precise movement
+- Snap to grid option
+- Alignment guides
+
+Resizing:
+- Corner handles for proportional resize
+- Side handles for stretch (use carefully)
+- Enter exact percentage
+- Warning: Don't resize specialty designs (fringe, puffy)
+
+Rotation:
+- Rotation handle above design
+- Enter exact degrees
+- Common angles: 0°, 45°, 90°, 180°
+
+Mirroring:
+- Flip horizontal: Mirror left-right
+- Flip vertical: Mirror top-bottom
+- Useful for symmetrical layouts
+
+LAYER MANAGEMENT:
+
+Understanding Layers:
+- Designs stitch in layer order
+- Bottom layer stitches first
+- Top layer stitches last
+- Critical for overlapping elements
+
+Changing Order:
+- Select design
+- "Bring to Front" or "Send to Back"
+- Drag in layer panel
+- Visual preview updates
+
+Overlapping Designs:
+✓ Intentional layering for effects
+✓ Non-touching elements
+✗ Accidental overlaps (causes problems)
+✗ Heavy overlap (creates too much density)
+
+ALIGNMENT TOOLS:
+
+Grid:
+- Shows/hides alignment grid
+- Snap to grid option
+- Helpful for even spacing
+
+Guides:
+- Center guides (vertical/horizontal)
+- Custom guide placement
+- Align multiple elements
+
+Distribution:
+- Evenly space multiple designs
+- Horizontal or vertical distribution
+- Professional appearance
+
+EXPORT OPTIONS:
+
+Format:
+- DST (universal, works with all machines)
+- Future: Additional format support planned
+
+Quality Settings:
+- Standard: Normal export (recommended)
+- High: Preserves maximum detail
+
+File Naming:
+- Enter custom name
+- Auto-generates timestamp
+- Easy identification
+
+BEST PRACTICES:
+
+Design Selection:
+✓ Use compatible design styles
+✓ Match stitch densities
+✓ Consider color scheme
+✗ Combine too many complex designs
+
+Spacing:
+✓ Leave 5mm minimum between elements
+✓ More space for high-density designs
+✓ Test on scrap fabric
+✗ Overlap different designs
+
+Color Planning:
+- Combined file merges colors
+- Plan thread change sequence
+- Group same colors together
+- Minimize thread changes
+
+File Management:
+- Save combined files with descriptive names
+- Keep source files separate
+- Document successful combinations
+- Build library of custom layouts
+
+LIMITATIONS:
+
+Combiner does NOT:
+- Edit individual design stitches
+- Change colors (uses original colors)
+- Optimize stitch pathing between designs
+- Merge designs into single stitching path
+- Auto-digitize text (import letter files instead)
+
+Designs remain separate entities in combined file, stitching one after another.
+
+SPECIALTY DESIGNS:
+
+Combining Artapli Specialty Designs:
+
+Fringe Designs:
+✓ Can combine with other designs
+✗ Do not resize fringe elements
+✓ Leave extra space around fringe (5-7mm)
+
+Puffy Foam Designs:
+✓ Combine with non-puffy elements
+✗ Don't overlap puffy with other stitching
+✓ Stitch puffy elements last (put on top layer)
+
+Applique Designs:
+✓ Can combine multiple applique elements
+⚠️ Pay attention to color stop sequence
+✓ Test on scrap (color stops may be complex)
+
+MOBILE COMPATIBILITY:
+
+Works on:
+- Desktop computers (best experience)
+- Tablets (good for positioning)
+- Smartphones (limited, but functional)
+
+Recommended:
+- Larger screen for precision
+- Mouse/trackpad for fine control
+- Desktop for complex combinations
+
+TROUBLESHOOTING:
+
+Issue: Design won't import
+Solutions:
+- Check file format supported
+- Verify file not corrupted
+- Try smaller file size
+- Use DST format as most reliable
+
+Issue: Designs overlap unexpectedly
+Solutions:
+- Check layer order
+- Zoom in to see actual positioning
+- Use grid for alignment
+- Manually reposition
+
+Issue: Export file doesn't stitch correctly
+Solutions:
+- Verify designs within hoop boundary
+- Check for overlaps
+- Test on scrap fabric first
+- Reduce design count if too complex
+
+Issue: Can't see design on canvas
+Solutions:
+- Zoom out to see full canvas
+- Check layer visibility
+- Design may be outside canvas (reposition)
+- Try different background color
+
+ADVANCED TECHNIQUES:
+
+Creating Design Sets:
+- Combine left and right designs
+- Mirror for symmetry
+- Match sizing
+- Save as templates
+
+Production Efficiency:
+- Combine small designs to fill hoop
+- Stitch multiple items simultaneously
+- Reduce hooping time
+- Maximize fabric use
+
+Custom Monograms:
+- Import 3 letters (first, last, middle)
+- Size: Last name initial larger in center
+- First and middle initials smaller on sides
+- Classic monogram style
+
+Border Creation:
+- Import corner and side border elements
+- Arrange around central design
+- Mirror corners for symmetry
+- Frame effect
+
+PRIVACY:
+- All processing in browser
+- No server upload
+- No data collection
+- Your designs remain private
+
+RELATED TOOLS:
+- Embroidery Analyzer: Check combined file statistics
+- Embroidery Previewer: Preview combined result
+- DST Optimizer: Optimize combined file if needed
+
+SEE ALSO:
+- Guide: "Free Design Combiner App" - Full tutorial
+- Apps: artapli.shop/pages/apps
+- FAQ: "Can I combine designs?" - artapli.shop/pages/faq
+
+================================================================================
+END OF AI KNOWLEDGE BASE
+================================================================================
+
+For more information:
+- Visit: artapli.shop
+- FAQ: artapli.shop/pages/faq
+- Contact: support@artapli.shop
+
+This knowledge base is optimized for AI search engines, AI assistants, and
+automated systems to reference when answering customer questions about
+embroidery software, file formats, and Artapli tools.
+
+Last Updated: 2026-02-07
+Version: 1.0
+================================================================================
