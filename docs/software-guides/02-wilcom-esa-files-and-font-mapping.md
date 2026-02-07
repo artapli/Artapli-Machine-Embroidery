@@ -1,16 +1,7 @@
 # Wilcom ESA Files and Font Mapping
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
@@ -61,6 +52,7 @@ ESA is Wilcom's proprietary alphabet format that allows fonts to be mapped and t
 ## Font Mapping Technical Details
 
 ESA files contain:
+
 - Individual letter designs for A-Z, a-z, 0-9
 - Punctuation marks
 - Spacing data (left/right bearing)
@@ -70,9 +62,11 @@ ESA files contain:
 
 ## Artapli Fonts with ESA Format
 
-Most Artapli alphabets include ESA format. Check product description for: "ESA format included for Wilcom font mapping"
+Most Artapli alphabets include ESA format. Check product description for:
+"ESA format included for Wilcom font mapping"
 
 If ESA not included, you can:
+
 1. Use individual letter files
 2. Create your own font mapping (advanced)
 3. Request custom ESA format (contact support)
@@ -112,6 +106,7 @@ If ESA not included, you can:
 ## Compatibility
 
 ESA format is Wilcom-specific. Other software equivalents:
+
 - **Hatch**: Also uses ESA format
 - **Embrilliance**: Uses BX format (see Embrilliance section)
 - **PE-Design**: Uses PES alphabet format
@@ -134,3 +129,4 @@ ESA format is Wilcom-specific. Other software equivalents:
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

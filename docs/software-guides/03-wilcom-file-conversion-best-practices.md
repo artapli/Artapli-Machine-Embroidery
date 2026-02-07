@@ -1,22 +1,14 @@
 # Wilcom File Conversion Best Practices
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
 ## Why Proper Conversion Matters
 
 Embroidery designs contain precise stitch data. Improper conversion can:
+
 - Destroy specialty effects (fringe, puffy, 3D)
 - Change stitch density and quality
 - Create gaps or overlaps
@@ -29,6 +21,7 @@ Artapli designs are created with specific stitch calculations. To preserve quali
 ### RULE 1: Disable All Automatic Optimizations
 
 When converting formats, turn OFF:
+
 - "Optimize stitches"
 - "Remove small stitches"
 - "Reduce stitch count"
@@ -46,6 +39,7 @@ This preserves original stitch data better than Export function.
 ### RULE 3: Never Convert Specialty Designs
 
 Designs with these effects should NEVER be converted or resized:
+
 - **Fringe/Fluffy effects**: Requires specific tight stitches
 - **Puffy foam**: Precise stitch placement for foam coverage
 - **3D effects**: Calculated stitch layering
@@ -55,14 +49,14 @@ For these designs: Use the exact format provided for your machine.
 
 ## Step-by-Step Conversion Process
 
-### Converting DST to PES (Example):
+### Converting DST to PES (Example)
 
 1. Open Wilcom
 2. File > Open > Select DST file
 3. Design loads with stitch data
 4. File > Save As
 5. Choose PES format from dropdown
-6. UNCHECK these options:
+6. **UNCHECK these options**:
    - ☐ Optimize stitches
    - ☐ Remove overlapping stitches
    - ☐ Reduce stitch count
@@ -88,26 +82,26 @@ For these designs: Use the exact format provided for your machine.
 
 ## Format-Specific Notes
 
-### DST Format:
+### DST Format
 - Universal format, works on all machines
 - No color information (machine assigns colors)
 - No density data (fixed stitch length)
 - Best for commercial machines
 - Most stable for conversions
 
-### EMB Format (Wilcom Native):
+### EMB Format (Wilcom Native)
 - Full editability preserved
 - All design data intact
 - Best format for storage and editing
 - Must convert to machine format for stitching
 
-### PES Format (Brother):
+### PES Format (Brother)
 - Includes color data
 - Thread brand information
 - Preview thumbnails
 - Good for home machines
 
-### JEF Format (Janome):
+### JEF Format (Janome)
 - Similar to PES
 - Includes hoop size data
 - Color sequence preserved
@@ -127,6 +121,7 @@ If any metric differs significantly, conversion failed. Use different format or 
 ## Artapli Recommendation
 
 All Artapli designs include multiple formats. Instead of converting:
+
 1. Use the format pre-optimized for your machine
 2. All formats tested for quality
 3. No conversion risk
@@ -149,3 +144,4 @@ All Artapli designs include multiple formats. Instead of converting:
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

@@ -1,25 +1,13 @@
 # Bernina ART Machines Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
+> Professional embroidery fonts, designs, and resources
 
 ---
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 
 ## Overview
 
-Bernina ART (Artista) is Bernina's professional embroidery software, built on
-Wilcom technology. It offers full digitizing and editing capabilities.
-
+Bernina ART (Artista) is Bernina's professional embroidery software, built on Wilcom technology. It offers full digitizing and editing capabilities.
 
 ## Software Versions
 
@@ -28,23 +16,18 @@ Wilcom technology. It offers full digitizing and editing capabilities.
 - Bernina ART v5 (current as of 2025)
 - Bernina Artista (older branding)
 
+## Relationship to Wilcom
 
-## Relationship To Wilcom
-
-
-### Bernina ART is Wilcom software with Bernina branding:
+Bernina ART is Wilcom software with Bernina branding:
 
 - Same features as Wilcom E4
 - ESA font format support
 - Full digitizing tools
 - Bernina-specific optimizations
 
+## Using Artapli Designs in Bernina ART
 
-## Using Artapli Designs In Bernina Art
-
-
-
-### Importing Designs:
+### Importing Designs
 
 1. Download and extract Artapli ZIP
 2. Open Bernina ART
@@ -52,22 +35,17 @@ Wilcom technology. It offers full digitizing and editing capabilities.
 4. Select EXP or DST format
 5. Design loads ready for editing or export
 
+### Best Format for Bernina ART
 
-### Best Format for Bernina ART:
+- **EXP** (Bernina native) - preserves all data
+- **EMB** (Wilcom native) - if available, full editability
+- **DST** - universal but less data
 
-- EXP (Bernina native) - preserves all data
-- EMB (Wilcom native) - if available, full editability
-- DST - universal but less data
+## Font Mapping in Bernina ART
 
+Bernina ART supports ESA fonts identically to Wilcom:
 
-## Font Mapping In Bernina Art
-
-
-### Bernina ART supports ESA fonts identically to Wilcom:
-
-
-
-### Installing Artapli ESA Fonts:
+### Installing Artapli ESA Fonts
 
 1. Locate ESA file in Artapli download
 2. Bernina ART > Lettering > Font Manager
@@ -75,17 +53,14 @@ Wilcom technology. It offers full digitizing and editing capabilities.
 4. Select ESA file
 5. Font appears in lettering dropdown
 
-
-### Typing with Mapped Fonts:
+### Typing with Mapped Fonts
 
 1. Select Text tool
 2. Choose Artapli font from list
 3. Type text - letters appear with automatic spacing
 4. Adjust size, spacing, baseline as needed
 
-
-## Bernina Art Editing Capabilities
-
+## Bernina ART Editing Capabilities
 
 ### What you can safely do with Artapli designs:
 
@@ -95,7 +70,6 @@ Wilcom technology. It offers full digitizing and editing capabilities.
 ✓ Export to different machine formats
 ✓ Rotate or mirror (non-directional designs)
 
-
 ### What to avoid:
 
 ✗ Auto-optimization of specialty designs
@@ -103,28 +77,25 @@ Wilcom technology. It offers full digitizing and editing capabilities.
 ✗ Converting formats unnecessarily
 ✗ Removing "unnecessary" small stitches (they're intentional)
 
-
 ## Bernina-Specific Features
 
-
-### Bernina ART includes features for Bernina machines:
+Bernina ART includes features for Bernina machines:
 
 - Direct USB export to Bernina format
 - Bernina thread palette pre-loaded
 - Hoop templates for all Bernina hoops
 - Machine compatibility checker
 
-
-## Design Conversion In Bernina Art
+## Design Conversion in Bernina ART
 
 When converting between formats, follow same rules as Wilcom:
+
 - Disable automatic optimization
 - Keep original stitch data
 - Never convert specialty effect designs
 - See "Wilcom File Conversion" section for details
 
-
-## Bernina Art Project Workflow
+## Bernina ART Project Workflow
 
 1. Import Artapli design (EXP or DST)
 2. Edit if needed (colors, positioning)
@@ -134,66 +105,48 @@ When converting between formats, follow same rules as Wilcom:
 6. Transfer to USB
 7. Load on Bernina machine
 
+## Licensing and Versions
 
-## Licensing And Versions
+Bernina ART pricing tiers:
 
-
-### Bernina ART pricing tiers:
-
-- Basic: Design editing only
-- Plus: Editing + simple digitizing
-- Pro: Full professional digitizing
+- **Basic**: Design editing only
+- **Plus**: Editing + simple digitizing
+- **Pro**: Full professional digitizing
 
 All tiers can use Artapli designs. Font mapping requires Plus or Pro tier.
 
-
-## Bernina Art Troubleshooting
-
-
+## Bernina ART Troubleshooting
 
 ### Issue: ESA font won't import
-
-**A: Check Bernina ART version. Older versions may not support newer ESA format.**
-
-Update software or contact Artapli for compatible version.
-
+**A**: Check Bernina ART version. Older versions may not support newer ESA format. Update software or contact Artapli for compatible version.
 
 ### Issue: Design looks different after opening
-
-**A: Check if auto-optimization is enabled. Disable in Preferences.**
-
-
+**A**: Check if auto-optimization is enabled. Disable in Preferences.
 
 ### Issue: Export creates different file size
-
-**A: Normal. Different formats store data differently. Verify stitch count and**
-
-dimensions match original.
-
+**A**: Normal. Different formats store data differently. Verify stitch count and dimensions match original.
 
 ## Learning Resources
 
-
-### Bernina provides extensive training:
+Bernina provides extensive training:
 
 - Bernina ART Mastery courses
 - YouTube tutorials
 - Dealer demonstrations
 - Wilcom tutorials also apply (same engine)
 
-
-### For Artapli-specific questions:
+For Artapli-specific questions:
 
 - Contact Artapli support
 - Reference Wilcom guides (technology is identical)
-- Check FAQ at artapli.shop/pages/faq
-
+- Check FAQ at [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 
 ## See Also
 
 - Guide: "Alphabet Fonts with Your Bernina"
 - Guide: "Files in Wilcom" (applies to Bernina ART)
 - Guide: "About ESA Files and Font Mapping"
+
 ---
 
 ## 📚 Additional Resources
@@ -205,3 +158,4 @@ dimensions match original.
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

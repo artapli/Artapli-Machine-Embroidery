@@ -1,16 +1,7 @@
 # Hatch Font Mapping for Purchased Alphabets
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
@@ -18,21 +9,20 @@ Perfect for stitchers who want to personalize designs without the complexity and
 
 Hatch 2 and Hatch 3 include font mapping capability, allowing you to type text with purchased alphabet designs instead of placing letters individually.
 
-## KDC Font Mapping Support
-
-**IMPORTANT**: KDC mapping works with Hatch 3 AND Wilcom. This powerful feature allows keyboard typing with your purchased alphabets.
-
-**Video Tutorial**: [https://www.youtube.com/watch?v=2nVwUMMbE-Y](https://www.youtube.com/watch?v=2nVwUMMbE-Y)
-
 ## Requirements
 
 - Hatch Embroidery 2 or newer (Hatch 1 does not support font mapping)
 - Purchased alphabet in ESA format
 - Basic understanding of Hatch lettering tools
 
+## Hatch 3 Video Tutorial
+
+**If you're using Hatch 3 software, you can map your purchased alphabets to KDC (keyboard font). Watch this video**: https://www.youtube.com/watch?v=2nVwUMMbE-Y
+
 ## What is Font Mapping
 
 Font mapping converts individual embroidery letter files into a "keyboard font" where:
+
 - You type letters on keyboard
 - Letters appear automatically with proper spacing
 - Baseline alignment is automatic
@@ -57,6 +47,7 @@ Font mapping converts individual embroidery letter files into a "keyboard font" 
 ### Step 1: Verify ESA Format
 
 Check your Artapli purchase includes ESA format:
+
 - Product description states "ESA format included"
 - Downloaded ZIP contains .ESA file
 - If not included, contact Artapli for ESA version
@@ -83,7 +74,7 @@ Check your Artapli purchase includes ESA format:
 
 If your Artapli alphabet doesn't include ESA, you can create mapping in Hatch 3:
 
-### Manual Font Mapping Process:
+### Manual Font Mapping Process
 
 1. Import all individual letter files (A-Z, 0-9, punctuation)
 2. Lettering > Font Manager > Create New Font
@@ -94,6 +85,7 @@ If your Artapli alphabet doesn't include ESA, you can create mapping in Hatch 3:
 7. Font now available for typing
 
 This is advanced and time-consuming. Artapli recommends:
+
 - Use provided ESA fonts when available
 - Request custom ESA format from Artapli support
 - Or continue using individual letter placement
@@ -101,6 +93,7 @@ This is advanced and time-consuming. Artapli recommends:
 ## Font Mapping Settings
 
 After importing font, customize:
+
 - **Default size** (small, medium, large presets)
 - **Letter spacing** (percentage adjustment)
 - **Baseline position** (for special effects)
@@ -108,18 +101,20 @@ After importing font, customize:
 
 ## Specialty Artapli Fonts
 
-### Fringe Fonts:
+Some Artapli fonts have unique properties:
+
+### Fringe Fonts
 - Never resize after typing
 - Use exact size provided
 - Spacing adjustment is safe
 - Resizing destroys fringe effect
 
-### Puffy Fonts:
+### Puffy Fonts
 - Designed for specific foam heights
 - Resizing changes foam coverage
 - Use original size or contact Artapli for different sizes
 
-### Applique Fonts:
+### Applique Fonts
 - Include placement and cover stitches
 - Color stops indicate applique fabric placement
 - Follow color sequence carefully
@@ -127,19 +122,15 @@ After importing font, customize:
 ## Troubleshooting Font Mapping
 
 ### Issue: Font import fails
-
 **Solution**: Check Hatch version (must be 2 or newer). Verify ESA file is not corrupted (re-download if needed).
 
 ### Issue: Letters overlap when typed
-
 **Solution**: Adjust letter spacing in Font Properties. Some fonts need wider spacing.
 
 ### Issue: Baseline is uneven
-
 **Solution**: Check baseline settings in Font Manager. Some fonts have intentional baseline variation (script fonts).
 
 ### Issue: Missing characters
-
 **Solution**: Check which characters are included. Some Artapli specialty fonts only include uppercase or specific character sets. See product description.
 
 ## Comparing Typing vs. Individual Letters
@@ -173,6 +164,7 @@ Choose method based on project needs.
 ## Artapli Font Collections
 
 Popular Artapli fonts with ESA mapping:
+
 - Bold Chain Stitch fonts
 - Satin Stitch alphabets
 - Hand-Stitch Effect fonts
@@ -198,3 +190,4 @@ Check individual product descriptions for ESA availability.
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

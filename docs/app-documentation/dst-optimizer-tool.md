@@ -1,21 +1,17 @@
 # DST Optimizer Tool Documentation
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
+> Professional embroidery fonts, designs, and resources
 
 ---
 
-
 ## Overview
 
-DST Optimizer is free web-based tool by Artapli for converting and optimizing
-DST embroidery files. Reduces file size and removes unnecessary jump stitches
-while preserving design quality.
-
+DST Optimizer is free web-based tool by Artapli for converting and optimizing DST embroidery files. Reduces file size and removes unnecessary jump stitches while preserving design quality.
 
 ## Purpose
 
-
-### DST files from some sources contain:
+DST files from some sources contain:
 
 - Excessive jump stitches
 - Long trim commands
@@ -24,14 +20,12 @@ while preserving design quality.
 
 DST Optimizer cleans these issues for smoother stitching.
 
-
 ## Access
 
-- URL: artapli.shop/pages/dst-optimizer
-- Platform: Web browser
-- Cost: Free
-- No registration required
-
+- **URL**: [artapli.shop/pages/dst-optimizer](https://artapli.shop/pages/dst-optimizer)
+- **Platform**: Web browser
+- **Cost**: Free
+- **No registration required**
 
 ## Key Features
 
@@ -42,10 +36,7 @@ DST Optimizer cleans these issues for smoother stitching.
 5. Batch processing
 6. Preview before/after statistics
 
-
-## When To Use Dst Optimizer
-
-
+## When to Use DST Optimizer
 
 ### Use for:
 
@@ -54,7 +45,6 @@ DST Optimizer cleans these issues for smoother stitching.
 ✓ Files that stitch slowly due to inefficient pathing
 ✓ DST files that need format conversion
 
-
 ### Do NOT use for:
 
 ✗ Specialty Artapli designs (already optimized)
@@ -62,35 +52,35 @@ DST Optimizer cleans these issues for smoother stitching.
 ✗ Files in perfect working condition
 ✗ Non-DST formats (tool is DST-specific)
 
+## How to Use DST Optimizer
 
-## How To Use Dst Optimizer
+### Step 1: Upload DST File
 
-
-Step 1: Upload DST File
 - Visit DST Optimizer page
 - Click "Choose File"
 - Select DST file from computer
 - File uploads for processing
 
-Step 2: Choose Optimization Level
+### Step 2: Choose Optimization Level
 
-### Options:
+**Options**:
 
-- Light: Removes only excessive jumps (safest)
-- Medium: Balances optimization and safety (recommended)
-- Aggressive: Maximum optimization (use carefully)
+- **Light**: Removes only excessive jumps (safest)
+- **Medium**: Balances optimization and safety (recommended)
+- **Aggressive**: Maximum optimization (use carefully)
 
 For Artapli designs or unknown sources: Use Light or Medium
 
-Step 3: Process
+### Step 3: Process
+
 - Click "Optimize"
 - Tool analyzes DST file
 - Optimization happens in seconds
 - Results display before/after statistics
 
-Step 4: Review Results
+### Step 4: Review Results
 
-### Tool shows:
+Tool shows:
 
 - Original stitch count
 - Optimized stitch count
@@ -98,57 +88,49 @@ Step 4: Review Results
 - File size reduction
 - Estimated time savings
 
-Step 5: Download
+### Step 5: Download
+
 - Click "Download Optimized DST"
 - Save to computer
 - Test on scrap fabric before production
 - Keep original file as backup
 
-
 ## Optimization Levels Explained
 
-
-
-### Light Optimization:
+### Light Optimization
 
 - Removes jumps > 10mm
 - Preserves all design elements
 - Safest option
 - Minimal risk
-- Best for: First-time use, important projects
+- **Best for**: First-time use, important projects
 
-
-### Medium Optimization (Recommended):
+### Medium Optimization (Recommended)
 
 - Removes jumps > 7mm
 - Reduces excessive trims
 - Balances efficiency and safety
 - Suitable for most designs
-- Best for: General use, tested designs
+- **Best for**: General use, tested designs
 
-
-### Aggressive Optimization:
+### Aggressive Optimization
 
 - Removes jumps > 5mm
 - Maximum trim reduction
 - Significant file size reduction
 - Higher risk of altering design
-- Best for: Problematic files, experienced users who will test first
-
+- **Best for**: Problematic files, experienced users who will test first
 
 ## Technical Details
 
-
-
-### What Gets Removed:
+### What Gets Removed
 
 - Long jump stitches between sections
 - Redundant trim commands
 - Excessive color changes (if same color)
 - Unnecessary path optimization
 
-
-### What Gets Preserved:
+### What Gets Preserved
 
 - All visible stitches
 - Design shape and size
@@ -156,8 +138,7 @@ Step 5: Download
 - Intentional color stops
 - Specialty stitch types
 
-
-### Algorithm:
+### Algorithm
 
 - Analyzes stitch-by-stitch
 - Identifies inefficient jumps
@@ -165,49 +146,39 @@ Step 5: Download
 - Removes safe-to-remove elements
 - Rebuilds DST with same visual result
 
-
 ## When Optimization Helps
 
+**Problem**: Commercial machine creates long thread tails
+**Solution**: DST Optimizer removes excessive jumps causing tails
 
-Problem: Commercial machine creates long thread tails
-**Solution: DST Optimizer removes excessive jumps causing tails**
+**Problem**: Design has too many trim commands (machine pauses frequently)
+**Solution**: Optimizer consolidates trims
 
+**Problem**: DST file is unusually large (slow to load)
+**Solution**: Optimization reduces file size 20-50%
 
-Problem: Design has too many trim commands (machine pauses frequently)
-**Solution: Optimizer consolidates trims**
+**Problem**: Design from unknown source stitches poorly
+**Solution**: Clean up inefficient pathing
 
+## Artapli Designs and Optimization
 
-Problem: DST file is unusually large (slow to load)
-**Solution: Optimization reduces file size 20-50%**
+**Note**: Artapli designs are pre-optimized during creation
 
-
-Problem: Design from unknown source stitches poorly
-**Solution: Clean up inefficient pathing**
-
-
-
-## Artapli Designs And Optimization
-
-Note: Artapli designs are pre-optimized during creation
 - Already have efficient pathing
 - Jump stitches are intentional and minimal
 - No need to optimize Artapli DST files
 - Use optimizer for DST files from other sources
 
+## Why DST Format
 
-## Why Dst Format
-
-
-### DST is universal format but:
+DST is universal format but:
 
 - No embedded optimization data
 - Different digitizers use different standards
 - Machine settings vary
 - Optimizer standardizes for best results
 
-
 ## Safety Considerations
-
 
 ### Always:
 
@@ -217,7 +188,6 @@ Note: Artapli designs are pre-optimized during creation
 ✓ Compare visual appearance after optimization
 ✓ Document settings that work for your machine
 
-
 ### Never:
 
 ✗ Optimize without testing first
@@ -225,59 +195,41 @@ Note: Artapli designs are pre-optimized during creation
 ✗ Optimize specialty designs (fringe, puffy) - use original
 ✗ Optimize multiple times (degrades quality)
 
-
 ## Troubleshooting
-
-
 
 ### Issue: Optimized file looks different
 
-**Solution: Use lighter optimization level. Some jumps may be intentional.**
-
-Return to original file.
-
+**Solution**: Use lighter optimization level. Some jumps may be intentional. Return to original file.
 
 ### Issue: Design stitches poorly after optimization
 
-**Solution: Original had intentional jumps for fabric relief. Use original**
-
-or try Light optimization only.
-
+**Solution**: Original had intentional jumps for fabric relief. Use original or try Light optimization only.
 
 ### Issue: File won't process
 
-**Solution: Check file is valid DST format. Try different browser. Verify**
-
-file not corrupted.
-
+**Solution**: Check file is valid DST format. Try different browser. Verify file not corrupted.
 
 ### Issue: No improvement in file size
 
-**Solution: File was already optimized. No action needed.**
-
-
+**Solution**: File was already optimized. No action needed.
 
 ## Batch Processing
 
-
-### For multiple files:
+For multiple files:
 
 - Process one at a time
 - Document settings used
 - Test first file before batch-processing others
 - Keep consistent optimization level for similar designs
 
-
 ## Mobile Compatibility
 
-
-### DST Optimizer works on:
+DST Optimizer works on:
 
 - Smartphones
 - Tablets
 - Desktop computers
 - Any device with modern browser
-
 
 ## Privacy
 
@@ -286,19 +238,18 @@ file not corrupted.
 - No data collection
 - Completely private
 
-
 ## Related Tools
 
-- Embroidery Analyzer: Check file statistics
-- Embroidery Previewer: Visual preview
-- Design Combiner: Merge multiple files
-
+- **Embroidery Analyzer**: Check file statistics
+- **Embroidery Previewer**: Visual preview
+- **Design Combiner**: Merge multiple files
 
 ## See Also
 
 - Guide: "DST Optimizer" - Detailed tutorial
 - Technical: "Why DST Files Create Long Jump Threads"
-- FAQ: "How do I fix thread breaks?" - artapli.shop/pages/faq
+- FAQ: "How do I fix thread breaks?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
+
 ---
 
 ## 📚 Additional Resources
@@ -310,3 +261,4 @@ file not corrupted.
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

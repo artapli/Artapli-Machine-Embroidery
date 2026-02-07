@@ -1,16 +1,7 @@
 # Hatch Embroidery Software Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
@@ -27,16 +18,11 @@ Hatch is modern embroidery software created by Wilcom, designed for home embroid
 ## Relationship to Wilcom
 
 Hatch is Wilcom's consumer product line:
+
 - Same file format support (DST, PES, JEF, etc.)
 - Uses ESA font format (same as Wilcom)
 - Similar conversion engine
 - Simplified interface for home users
-
-## KDC Font Mapping
-
-**IMPORTANT**: KDC mapping works with Hatch 3 AND Wilcom. This allows you to use purchased alphabets with keyboard typing functionality.
-
-**Video Tutorial**: [https://www.youtube.com/watch?v=2nVwUMMbE-Y](https://www.youtube.com/watch?v=2nVwUMMbE-Y)
 
 ## Using Artapli Designs in Hatch
 
@@ -52,6 +38,7 @@ Hatch is Wilcom's consumer product line:
 ### Step 2: Editing Capabilities
 
 Hatch allows you to:
+
 - Resize designs (use caution - see warnings below)
 - Change colors
 - Combine multiple designs
@@ -76,7 +63,7 @@ Hatch allows you to:
 
 Like Wilcom, Hatch supports ESA alphabet fonts. When you purchase Artapli fonts:
 
-### Installing Fonts in Hatch:
+### Installing Fonts in Hatch
 
 1. Locate ESA file in downloaded ZIP
 2. In Hatch: Go to Lettering > Font Manager
@@ -85,16 +72,17 @@ Like Wilcom, Hatch supports ESA alphabet fonts. When you purchase Artapli fonts:
 5. Font appears in lettering toolbar
 6. Type text instead of placing individual letters
 
-## Automatic Design Adjustments WARNING
+## Automatic Design Adjustments Warning
 
 Hatch has automatic optimization features that can harm Artapli specialty designs:
 
 When opening designs, Hatch may prompt:
-"Optimize this design for better stitching?"
+**"Optimize this design for better stitching?"**
 
-**For Artapli designs: ALWAYS click "No" or "Skip Optimization"**
+For Artapli designs: **ALWAYS click "No" or "Skip Optimization"**
 
 Optimization destroys:
+
 - Fringe effects (removes tiny stitches needed for fringe)
 - Puffy foam coverage (changes stitch placement)
 - Chain stitch character (converts to regular stitches)
@@ -118,9 +106,10 @@ Optimization destroys:
 ## Hatch Version Compatibility
 
 Artapli designs work with all Hatch versions:
-- Hatch 1: Basic support
-- Hatch 2: Full compatibility
-- Hatch 3: Enhanced preview and editing
+
+- **Hatch 1**: Basic support
+- **Hatch 2**: Full compatibility
+- **Hatch 3**: Enhanced preview and editing
 
 Older versions: If you have Hatch 1, some ESA fonts may require Hatch 2+. Contact Artapli support for compatible formats.
 
@@ -136,17 +125,14 @@ Hatch excels at combining multiple designs:
 
 ## Common Hatch Questions
 
-### Q: Can I use Artapli BX fonts in Hatch?
+**Q: Can I use Artapli BX fonts in Hatch?**
+A: No. BX fonts are for Embrilliance software. Use ESA fonts with Hatch.
 
-**A**: No. BX fonts are for Embrilliance software. Use ESA fonts with Hatch.
+**Q: Design looks pixelated in Hatch preview**
+A: This is normal. Hatch renders preview differently than final stitch. Check stitch simulator for accurate representation.
 
-### Q: Design looks pixelated in Hatch preview
-
-**A**: This is normal. Hatch renders preview differently than final stitch. Check stitch simulator for accurate representation.
-
-### Q: Colors don't match my thread
-
-**A**: Use Thread Palette feature to match your thread brand. Hatch supports all major thread manufacturers.
+**Q: Colors don't match my thread**
+A: Use Thread Palette feature to match your thread brand. Hatch supports all major thread manufacturers.
 
 ## Technical Specifications
 
@@ -172,3 +158,4 @@ Hatch excels at combining multiple designs:
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

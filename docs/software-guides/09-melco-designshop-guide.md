@@ -1,25 +1,13 @@
 # Melco DesignShop Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
+> Professional embroidery fonts, designs, and resources
 
 ---
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 
 ## Overview
 
-Melco DesignShop is professional embroidery software designed for Melco commercial
-embroidery machines. It offers digitizing, editing, and production management.
-
+Melco DesignShop is professional embroidery software designed for Melco commercial embroidery machines. It offers digitizing, editing, and production management.
 
 ## Machine Compatibility
 
@@ -28,26 +16,21 @@ embroidery machines. It offers digitizing, editing, and production management.
 - Melco Bravo
 - Other Melco commercial machines
 
-
 ## File Formats
 
-- Native: CND (Melco DesignShop format)
-- Machine: EXP, DST, CND
-- Import: All standard embroidery formats
+- **Native**: CND (Melco DesignShop format)
+- **Machine**: EXP, DST, CND
+- **Import**: All standard embroidery formats
 
+## Using Artapli Designs in DesignShop
 
-## Using Artapli Designs In Designshop
+### Best Format for Melco
 
-
-
-### Best Format for Melco:
-
-- DST format (universal, most reliable)
-- EXP format (alternative, includes more data)
+- **DST format** (universal, most reliable)
+- **EXP format** (alternative, includes more data)
 - All Artapli designs include both formats
 
-
-### Importing Process:
+### Importing Process
 
 1. Download Artapli design ZIP
 2. Extract files to organized folder
@@ -56,32 +39,28 @@ embroidery machines. It offers digitizing, editing, and production management.
 5. Select DST or EXP file
 6. Design loads ready for production or editing
 
-
-## Alphabet Fonts In Designshop
+## Alphabet Fonts in DesignShop
 
 Melco DesignShop has its own font system for lettering.
 
+### Using Artapli Alphabets
 
-### Using Artapli Alphabets:
-
-Option 1: Individual Letter Placement
+**Option 1: Individual Letter Placement**
 - Import each letter file separately
 - Place and space manually for custom work
 - Time-consuming but maximum control
 
-Option 2: Font Conversion (Advanced)
+**Option 2: Font Conversion (Advanced)**
 - Some Artapli alphabets can be converted to DesignShop fonts
 - Requires technical knowledge
 - Contact Artapli for DesignShop-specific font format
 
-Option 3: Use Lettering Software
+**Option 3: Use Lettering Software**
 - Create text in compatible software (Wilcom, Hatch)
 - Export final design to DST
 - Import to DesignShop for production
 
-
-## Designshop Editing Capabilities
-
+## DesignShop Editing Capabilities
 
 ### Safe practices with Artapli designs:
 
@@ -90,7 +69,6 @@ Option 3: Use Lettering Software
 ✓ Combine multiple designs
 ✓ Add production notes
 
-
 ### Avoid:
 
 ✗ Auto-optimization features
@@ -98,11 +76,9 @@ Option 3: Use Lettering Software
 ✗ Removing "small stitches" (often intentional)
 ✗ Converting repeatedly between formats
 
-
 ## Production Workflow
 
-
-### Melco DesignShop is designed for commercial production:
+Melco DesignShop is designed for commercial production:
 
 1. Import Artapli design
 2. Assign to specific machine
@@ -111,17 +87,14 @@ Option 3: Use Lettering Software
 5. Generate work order
 6. Send to Melco machine
 
-
 ## Thread Management
 
-
-### DesignShop includes thread inventory system:
+DesignShop includes thread inventory system:
 
 - Map Artapli design colors to your thread inventory
 - Track thread usage per design
 - Calculate thread costs
 - Generate thread shopping lists
-
 
 ### Recommended threads for Artapli designs on Melco:
 
@@ -129,12 +102,9 @@ Option 3: Use Lettering Software
 - Isacord (widely available, consistent quality)
 - Robison-Anton (good for high-volume production)
 
+## Specialty Designs on Melco Machines
 
-## Specialty Designs On Melco Machines
-
-
-
-### Fringe Designs:
+### Fringe Designs
 
 - Use DST format exactly as provided
 - Do not resize or modify
@@ -142,27 +112,23 @@ Option 3: Use Lettering Software
 - Reduce machine speed by 20-30% for best results
 - Use sharp needle (75/11 or 80/12)
 
-
-### Puffy Foam Designs:
+### Puffy Foam Designs
 
 - Load puffy foam during color stop
 - Use recommended foam thickness (check product description)
 - Polyester thread works better than rayon
 - Slightly reduce tension if needed
 
-
-### Applique Designs:
+### Applique Designs
 
 - Follow color sequence carefully
-- First stop: Placement line (mark fabric position)
-- Second stop: Tack down (secure fabric)
-- Third stop: Cover stitch (finish edges)
-
+- **First stop**: Placement line (mark fabric position)
+- **Second stop**: Tack down (secure fabric)
+- **Third stop**: Cover stitch (finish edges)
 
 ## Melco-Specific Considerations
 
-
-### Commercial production requires:
+Commercial production requires:
 
 - Proper stabilization (cut-away for garments)
 - Fresh needles (change every 8 hours production)
@@ -171,43 +137,23 @@ Option 3: Use Lettering Software
 
 Artapli designs are tested for commercial production quality.
 
+## Common DesignShop Questions
 
-## Common Designshop Questions
+**Q: Design won't import**
+A: Check file format. Use DST (most universal). Ensure file is not corrupted (re-download if needed).
 
+**Q: Colors don't match thread inventory**
+A: Use DesignShop's thread mapper to assign colors to your thread stock. Color names are suggestions only.
 
+**Q: Design causes thread breaks**
+A: Check needle sharpness, thread quality, tension, and stabilizer. Artapli designs are tested to minimize breaks when used with quality materials.
 
-### Q: Design won't import
-
-**A: Check file format. Use DST (most universal). Ensure file is not corrupted**
-
-(re-download if needed).
-
-
-### Q: Colors don't match thread inventory
-
-**A: Use DesignShop's thread mapper to assign colors to your thread stock. Color**
-
-names are suggestions only.
-
-
-### Q: Design causes thread breaks
-
-**A: Check needle sharpness, thread quality, tension, and stabilizer. Artapli**
-
-designs are tested to minimize breaks when used with quality materials.
-
-
-### Q: Can I resize designs for different garment types?
-
-**A: Standard designs can resize 10-15% safely. Specialty designs (fringe, puffy,**
-
-chain stitch) should never be resized. Order multiple sizes from Artapli.
-
+**Q: Can I resize designs for different garment types?**
+A: Standard designs can resize 10-15% safely. Specialty designs (fringe, puffy, chain stitch) should never be resized. Order multiple sizes from Artapli.
 
 ## Production Optimization
 
-
-### For high-volume production with Artapli designs:
+For high-volume production with Artapli designs:
 
 1. Test design on sample fabric before production run
 2. Document optimal settings (tension, speed, stabilizer)
@@ -215,28 +161,25 @@ chain stitch) should never be resized. Order multiple sizes from Artapli.
 4. Maintain quality control samples
 5. Order designs in sizes you use most frequently
 
-
 ## Technical Support
 
-
-### For Melco DesignShop technical issues:
+For Melco DesignShop technical issues:
 
 - Contact Melco support
 - Reference DesignShop manual
 
-
-### For Artapli design compatibility:
+For Artapli design compatibility:
 
 - Contact Artapli with DesignShop version number
 - Provide machine model
 - Include error messages or photos if applicable
 
-
 ## See Also
 
 - Guide: "Fonts in Melco DesignShop"
-- FAQ: "What format works with commercial machines?" - artapli.shop/pages/faq
+- FAQ: "What format works with commercial machines?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 - Guide: "Files in Wilcom" (similar principles)
+
 ---
 
 ## 📚 Additional Resources
@@ -248,3 +191,4 @@ chain stitch) should never be resized. Order multiple sizes from Artapli.
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

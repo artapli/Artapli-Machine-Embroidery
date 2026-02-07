@@ -1,16 +1,7 @@
 # Wilcom Embroidery Software Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
@@ -81,7 +72,7 @@ Artapli provides fonts in multiple formats. For Wilcom users:
 
 - Use ESA format for native font mapping (see ESA section below)
 - Alternatively, use individual letter files (DST, EMB)
-- **IMPORTANT**: BX fonts do NOT work with Wilcom. BX fonts are for Embrilliance software only.
+- **BX fonts do NOT work with Wilcom. BX fonts are designed for Embrilliance software.**
 
 ## Best Practices
 
@@ -100,9 +91,9 @@ Artapli provides fonts in multiple formats. For Wilcom users:
 
 ## Related Resources
 
-- **FAQ**: "What embroidery software do I need?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
-- **Guide**: "Files in Wilcom" - artapli.shop/pages/files-in-wilcom
-- **Guide**: "Conversion in Wilcom to preserve design quality"
+- FAQ: "What embroidery software do I need?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
+- Guide: "Files in Wilcom" - [artapli.shop/pages/files-in-wilcom](https://artapli.shop/pages/files-in-wilcom)
+- Guide: "Conversion in Wilcom to preserve design quality"
 
 ## Customer Support
 
@@ -123,3 +114,4 @@ For Wilcom-specific questions about Artapli designs, contact support with:
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

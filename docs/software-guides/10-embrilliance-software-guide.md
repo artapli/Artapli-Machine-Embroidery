@@ -1,46 +1,30 @@
 # Embrilliance Software Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
+> Professional embroidery fonts, designs, and resources
 
 ---
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
-
----
-
 
 ## Overview
 
-Embrilliance is modern embroidery software for Mac and Windows, designed for
-home embroiderers. It uses modular pricing with different capability levels.
-
+Embrilliance is modern embroidery software for Mac and Windows, designed for home embroiderers. It uses modular pricing with different capability levels.
 
 ## Software Modules
 
-- Embrilliance Essentials: Basic viewing and editing
-- Embrilliance Enthusiast: Advanced editing
-- Embrilliance StitchArtist: Digitizing tools
-- Embrilliance AlphaTricks: Advanced lettering
-
+- **Embrilliance Essentials**: Basic viewing and editing
+- **Embrilliance Enthusiast**: Advanced editing
+- **Embrilliance StitchArtist**: Digitizing tools
+- **Embrilliance AlphaTricks**: Advanced lettering
 
 ## File Formats
 
-- Native: BE (Embrilliance project format)
-- Import/Export: All standard embroidery formats
-- Font Format: BX (Embrilliance exclusive alphabet format)
+- **Native**: BE (Embrilliance project format)
+- **Import/Export**: All standard embroidery formats
+- **Font Format**: BX (Embrilliance exclusive alphabet format)
 
+## Using Artapli Designs in Embrilliance
 
-## Using Artapli Designs In Embrilliance
-
-
-
-### Importing Designs:
+### Importing Designs
 
 1. Download and extract Artapli ZIP
 2. Open Embrilliance
@@ -48,51 +32,40 @@ home embroiderers. It uses modular pricing with different capability levels.
 4. Select any embroidery format (DST, PES, JEF, etc.)
 5. Design appears on canvas ready for editing
 
-
-### Recommended Format:
+### Recommended Format
 
 - Any format works with Embrilliance
-- PES recommended (includes color data)
+- **PES recommended** (includes color data)
 - DST works but requires color assignment
 
+## Embrilliance BX Fonts
 
-## Embrilliance Bx Fonts
-
-
-### BX is Embrilliance's proprietary font format. Key features:
+BX is Embrilliance's proprietary font format. Key features:
 
 - Type complete words and sentences
 - Automatic spacing and baseline
 - Instant editing
 - Multiple sizes in one font file
 
+### Using Artapli BX Fonts
 
-### Using Artapli BX Fonts:
+Many Artapli alphabets include BX format. Check product description for "BX font included for Embrilliance."
 
-Many Artapli alphabets include BX format. Check product description for
-"BX font included for Embrilliance."
+### Installing BX Fonts
 
-
-### Installing BX Fonts:
-
-
-### Method 1 (Automatic):
-
+**Method 1 (Automatic)**:
 - Double-click BX file
 - Embrilliance imports automatically
 - Font appears in lettering menu
 
-
-### Method 2 (Manual):
-
+**Method 2 (Manual)**:
 - Open Embrilliance
 - File > Merge Design
 - Select BX file
 - Font installs to library
 - Access via lettering tools
 
-
-### Using BX Fonts:
+### Using BX Fonts
 
 1. Click "A" (text tool) in toolbar
 2. Select Artapli BX font from dropdown
@@ -101,11 +74,9 @@ Many Artapli alphabets include BX format. Check product description for
 5. Adjust size with slider (increments provided in font)
 6. Modify letter spacing if needed
 
+## BX Font Advantages
 
-## Bx Font Advantages
-
-
-### Compared to placing individual letters:
+Compared to placing individual letters:
 
 ✓ Type entire words instantly
 ✓ Edit text without repositioning
@@ -113,8 +84,7 @@ Many Artapli alphabets include BX format. Check product description for
 ✓ Multiple size options in one font
 ✓ Baseline handled properly
 
-
-### BX files include:
+BX files include:
 
 - All letters A-Z, a-z (uppercase and lowercase)
 - Numbers 0-9
@@ -122,9 +92,7 @@ Many Artapli alphabets include BX format. Check product description for
 - Multiple pre-digitized sizes
 - Spacing data
 
-
 ## Embrilliance Design Editing
-
 
 ### Safe practices with Artapli designs:
 
@@ -134,7 +102,6 @@ Many Artapli alphabets include BX format. Check product description for
 ✓ Add text using BX fonts
 ✓ Create custom projects
 
-
 ### Unsafe practices:
 
 ✗ Using "Remove Overlap" on specialty designs
@@ -142,46 +109,41 @@ Many Artapli alphabets include BX format. Check product description for
 ✗ Converting formats repeatedly
 ✗ Using "Simplify Stitches" (destroys intentional detail)
 
+## Embrilliance Modules and Artapli Designs
 
-## Embrilliance Modules And Artapli Designs
-
-
-
-### Essentials Module:
+### Essentials Module
 
 - View designs
 - Change colors
 - Basic resizing
 - Print templates
 - Export to machine formats
+
 Sufficient for using Artapli designs as-is.
 
-
-### Enthusiast Module:
+### Enthusiast Module
 
 - All Essentials features
 - Design merging
 - Advanced editing
 - Stitch editing (use carefully)
-- Better for customizing Artapli designs
 
+Better for customizing Artapli designs.
 
-### StitchArtist:
+### StitchArtist
 
 - Digitizing from scratch
 - Not needed for using Artapli designs
 - Useful if you want to modify or create your own designs
 
-
-### AlphaTricks:
+### AlphaTricks
 
 - Advanced monogramming
 - Works great with Artapli BX fonts
 - Create complex lettering layouts
 - Professional monogramming effects
 
-
-## Embrilliance Workflow With Artapli
+## Embrilliance Workflow with Artapli
 
 1. Open Embrilliance Essentials or Enthusiast
 2. Merge Artapli design
@@ -191,69 +153,44 @@ Sufficient for using Artapli designs as-is.
 6. Export to your machine format (PES, JEF, etc.)
 7. Transfer to USB for stitching
 
+## Specialty Designs in Embrilliance
 
-## Specialty Designs In Embrilliance
-
-
-
-### Fringe Designs:
+### Fringe Designs
 
 - Import as-is
 - Do NOT resize
 - Do NOT use "Remove Tiny Stitches"
 - Stitch exactly as provided
 
-
-### Puffy Foam Designs:
+### Puffy Foam Designs
 
 - Import without modification
 - Check color sequence (first color often placement)
 - Export to machine format without optimization
 
+### BX Fonts with Specialty Effects
 
-### BX Fonts with Specialty Effects:
+Some Artapli BX fonts include special effects:
 
-
-### Some Artapli BX fonts include special effects:
-
-- Applique fonts: Follow color stops carefully
-- Fringe fonts: Use provided sizes, don't resize
-- Puffy fonts: Match to specified foam thickness
-
+- **Applique fonts**: Follow color stops carefully
+- **Fringe fonts**: Use provided sizes, don't resize
+- **Puffy fonts**: Match to specified foam thickness
 
 ## Troubleshooting Embrilliance
 
+**Issue: BX font won't install**
+Solution: Check Embrilliance version. Update to latest. Verify BX file is not corrupted (re-download). Some BX fonts require Enthusiast or AlphaTricks.
 
+**Issue: Design looks different than preview**
+Solution: Embrilliance preview is simplified. Use "Realistic" view mode for accurate representation. Actual stitch-out will match design.
 
-### Issue: BX font won't install
+**Issue: Can't find installed BX font**
+Solution: Look in lettering dropdown. BX fonts appear by name. Use search function if you have many fonts installed.
 
-**Solution: Check Embrilliance version. Update to latest. Verify BX file is not**
+**Issue: Typed text has spacing issues**
+Solution: Some fonts need spacing adjustment. Use letter spacing slider. Different sizes may need different spacing settings.
 
-corrupted (re-download). Some BX fonts require Enthusiast or AlphaTricks.
-
-
-### Issue: Design looks different than preview
-
-**Solution: Embrilliance preview is simplified. Use "Realistic" view mode for**
-
-accurate representation. Actual stitch-out will match design.
-
-
-### Issue: Can't find installed BX font
-
-**Solution: Look in lettering dropdown. BX fonts appear by name. Use search**
-
-function if you have many fonts installed.
-
-
-### Issue: Typed text has spacing issues
-
-**Solution: Some fonts need spacing adjustment. Use letter spacing slider.**
-
-Different sizes may need different spacing settings.
-
-
-## Embrilliance Advantages For Artapli Customers
+## Embrilliance Advantages for Artapli Customers
 
 - Cross-platform (Mac and Windows)
 - Works with all embroidery machine brands
@@ -262,30 +199,27 @@ Different sizes may need different spacing settings.
 - Regular updates and improvements
 - Large user community
 
-
 ## Learning Resources
 
-
-### Embrilliance provides:
+Embrilliance provides:
 
 - Video tutorials (Embrilliance YouTube channel)
 - User manual (PDF)
 - Active Facebook user group
 - Regular webinars
 
-
-### For Artapli BX fonts:
+For Artapli BX fonts:
 
 - Installation instructions included with purchase
-- FAQ at artapli.shop/pages/faq
+- FAQ at [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 - Contact Artapli for BX-specific questions
-
 
 ## See Also
 
-- FAQ: "How do I use BX fonts?" - artapli.shop/pages/faq
+- FAQ: "How do I use BX fonts?" - [artapli.shop/pages/faq](https://artapli.shop/pages/faq)
 - Guide: "Circle font usage BX Embrilliance"
 - Community: Embrilliance Users Facebook Group
+
 ---
 
 ## 📚 Additional Resources
@@ -297,3 +231,4 @@ Different sizes may need different spacing settings.
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*

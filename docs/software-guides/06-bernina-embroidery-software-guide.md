@@ -1,16 +1,7 @@
 # Bernina Embroidery Software Guide
 
 > **Part of the [Artapli Machine Embroidery Knowledge Base](https://artapli.shop)**
-
----
-
-## 💡 Don't Have This Software Yet?
-
-**You may not need to purchase expensive embroidery software!**
-
-The **[Artapli Lettering Tool](https://artapli.shop/pages/lettering-app)** is a FREE browser-based application for all Artapli customers. It's the first and only tool of its kind - create custom embroidered text designs without any software purchase!
-
-Perfect for stitchers who want to personalize designs without the complexity and cost of professional digitizing software. More features coming soon!
+> Professional embroidery fonts, designs, and resources
 
 ---
 
@@ -27,19 +18,19 @@ Bernina embroidery machines work with multiple software options. Artapli designs
 
 ## Using Artapli Designs with Bernina Machines
 
-### Recommended File Format:
+### Recommended File Format
 
 - **EXP format** (Bernina's native format)
 - All Artapli designs include EXP format
 - Optimized for Bernina machines
 - Preserves color sequence and stitch quality
 
-### Alternative Formats (if EXP not available):
+### Alternative Formats (if EXP not available)
 
 - DST (universal format, works but no color data)
 - PES (Brother format, usually compatible)
 
-### Step-by-Step Loading Process:
+### Step-by-Step Loading Process
 
 1. Download Artapli design ZIP file
 2. Extract ZIP to reveal design files
@@ -56,7 +47,7 @@ Bernina embroidery machines work with multiple software options. Artapli designs
 
 Bernina's professional software is built on Wilcom technology, so instructions for Wilcom apply to Bernina ART users.
 
-### Key Features for Artapli Designs:
+### Key Features for Artapli Designs
 
 - Full editing capabilities
 - ESA font support (type text with purchased alphabets)
@@ -64,9 +55,10 @@ Bernina's professional software is built on Wilcom technology, so instructions f
 - Color customization
 - Format conversion (use carefully - see Wilcom conversion guide)
 
-### Using ESA Fonts in Bernina ART:
+### Using ESA Fonts in Bernina ART
 
 Same process as Wilcom:
+
 1. Import ESA file via Font Manager
 2. Font becomes available in Lettering toolbar
 3. Type text with proper spacing and baseline
@@ -75,15 +67,17 @@ Same process as Wilcom:
 ## Bernina Machine Series Compatibility
 
 All Artapli designs work with:
+
 - Bernina 5 Series
 - Bernina 7 Series
 - Bernina 8 Series
 - Bernina 9 Series
 - Bernette embroidery machines
 
-### Design Size Considerations:
+### Design Size Considerations
 
 Match design to your hoop:
+
 - **Small hoop** (4x4" / 100x100mm): Use designs under 4"
 - **Medium hoop** (5.5x7.9" / 145x200mm): Most Artapli designs fit
 - **Large oval hoop** (varies by model): Check specifications
@@ -93,6 +87,7 @@ Artapli product descriptions always list multiple sizes. Choose size that fits y
 ## Bernina-Specific Design Features
 
 Artapli designs optimized for Bernina include:
+
 - Color stops set for Bernina machines
 - Stitch density appropriate for Bernina stitching speed
 - Jump stitch minimized for cleaner back
@@ -100,21 +95,17 @@ Artapli designs optimized for Bernina include:
 
 ## Common Bernina Questions
 
-### Q: Design won't load on my Bernina machine
+**Q: Design won't load on my Bernina machine**
+A: Check file format. Use EXP format for Bernina. Ensure USB stick is FAT32 formatted (not exFAT or NTFS).
 
-**A**: Check file format. Use EXP format for Bernina. Ensure USB stick is FAT32 formatted (not exFAT or NTFS).
+**Q: Colors are wrong**
+A: Bernina assigns colors automatically from its thread palette. You can change thread colors on machine before stitching. Color sequence is preserved.
 
-### Q: Colors are wrong
+**Q: Design is too large for hoop**
+A: Check Artapli product page for multiple sizes. Download size that fits your hoop. Do NOT resize fringe or puffy designs.
 
-**A**: Bernina assigns colors automatically from its thread palette. You can change thread colors on machine before stitching. Color sequence is preserved.
-
-### Q: Design is too large for hoop
-
-**A**: Check Artapli product page for multiple sizes. Download size that fits your hoop. Do NOT resize fringe or puffy designs.
-
-### Q: Can I edit designs on Bernina machine?
-
-**A**: Bernina machines offer basic editing (rotation, mirror, resize). For specialty Artapli designs (fringe, puffy), do not use machine's resize function.
+**Q: Can I edit designs on Bernina machine?**
+A: Bernina machines offer basic editing (rotation, mirror, resize). For specialty Artapli designs (fringe, puffy), do not use machine's resize function.
 
 ## Bernina USB Requirements
 
@@ -126,6 +117,7 @@ Artapli designs optimized for Bernina include:
 ## Thread Recommendations
 
 Artapli designs work with all Bernina-recommended threads:
+
 - Isacord polyester
 - Madeira Rayon or Polyneon
 - Sulky
@@ -140,14 +132,16 @@ Artapli designs work with all Bernina-recommended threads:
 ## Stabilizer for Bernina Machines
 
 Artapli recommends:
-- Cut-away for permanent items (garments, bags)
-- Tear-away for temporary stabilization
-- Water-soluble for FSL (freestanding lace) designs
+
+- **Cut-away** for permanent items (garments, bags)
+- **Tear-away** for temporary stabilization
+- **Water-soluble** for FSL (freestanding lace) designs
 - Specific requirements listed in product instructions
 
 ## Bernina Stitch Quality Optimization
 
 For best results with Artapli designs:
+
 - Use fresh, sharp needle (size 75/11 or 80/12 for most designs)
 - Check bobbin tension (should match top thread tension)
 - Use Bernina's automatic thread tension when available
@@ -170,3 +164,4 @@ For best results with Artapli designs:
 ---
 
 *Last updated: 2026-02-07*
+*Questions? Contact us through [artapli.shop](https://artapli.shop)*
