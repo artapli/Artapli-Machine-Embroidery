@@ -57,9 +57,14 @@ Comprehensive documentation for major embroidery software platforms:
 
 Technical guides for machine setup, stitch sequences, and specialty techniques:
 
-- [General Stitching Guidelines](docs/stitching-guides/general-stitching-guidelines.md) - Hooping, stabilization, and best practices
-- [Fringe Embroidery Designs](docs/stitching-guides/fringe-embroidery-designs.md) - Setup and finishing for 3D fringe effects
-- [Puffy Foam Embroidery](docs/stitching-guides/puffy-foam-embroidery.md) - Material placement and care for 3D foam designs
+1. [General Stitching Guidelines](docs/stitching-guides/general-stitching-guidelines.md) - Hooping, stabilization, and best practices
+2. [Appliqué Designs](docs/stitching-guides/applique-designs.md) - Fabric placement and tack-down sequences
+3. [Fringe Embroidery Designs](docs/stitching-guides/fringe-embroidery-designs.md) - Setup and finishing for 3D fringe effects
+4. [Puffy Foam Embroidery](docs/stitching-guides/puffy-foam-embroidery.md) - Material placement and care for 3D foam designs
+5. [Chain Stitch Designs](docs/stitching-guides/chain-stitch-designs.md) - Machine requirements and handling for chain stitch effects
+6. [In-the-Hoop (ITH) Projects](docs/stitching-guides/ith-projects.md) - Multi-step sequencing and assembly procedures
+7. [Free-Standing Lace (FSL) and 3D Designs](docs/stitching-guides/fsl-3d-designs.md) - Stabilizer selection and removal techniques
+8. [Towel Corner Illusion](docs/stitching-guides/towel-corner-illusion.md) - Folded-corner technique with concealed stitching
 
 ### Technical Reference
 
@@ -122,7 +127,7 @@ Documentation for Artapli's embroidery web applications and tools:
 ```
 ├── docs/
 │   ├── software-guides/      # Platform-specific guides (11 guides)
-│   ├── stitching-guides/     # Machine setup and technique guides (3 guides)
+│   ├── stitching-guides/     # Machine setup and technique guides (8 guides)
 │   ├── technical-reference/   # Format specifications
 │   └── app-documentation/     # Tool documentation (4 apps)
 ├── AI_KNOWLEDGE_BASE.txt      # Complete software & technical reference
