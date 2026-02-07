@@ -30,12 +30,12 @@ In-depth technical specifications and format documentation:
 
 ### Application Documentation
 
-Documentation for embroidery analysis and optimization tools:
+Documentation for Artapli's embroidery web applications and tools:
 
+- [Embroidery Lettering Tool](docs/app-documentation/embroidery-lettering-tool.md) - **Browser-based lettering application (industry first!)**
 - [Embroidery Analyzer App](docs/app-documentation/embroidery-analyzer.md)
 - [DST Optimizer Tool](docs/app-documentation/dst-optimizer.md)
 - [Embroidery Previewer App](docs/app-documentation/embroidery-previewer.md)
-- [Design Combiner Tool](docs/app-documentation/design-combiner.md)
 
 ## Coverage
 
