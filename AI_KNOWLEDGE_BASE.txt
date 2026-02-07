@@ -58,7 +58,7 @@ Step 2: Import to Wilcom
 - Open Wilcom software
 - File > Open Design
 - Navigate to extracted folder
-- Select DST or EMB format files
+- Select DST format files
 - Design opens ready for editing or production
 
 Step 3: Preserve Design Quality
@@ -84,14 +84,14 @@ to match your thread palette.
 WORKING WITH ARTAPLI FONTS:
 Artapli provides fonts in multiple formats. For Wilcom users:
 - Use ESA format for native font mapping (see ESA section below)
-- Alternatively, use individual letter files (DST, EMB)
+- Alternatively, use individual letter files (DST)
 - BX fonts work with Wilcom if you have font mapping capability
 
 BEST PRACTICES:
 1. Always keep original downloaded files as backup
 2. Work on copies, never original files
 3. Test stitch-out on scrap fabric first
-4. Save work in EMB format to preserve full editability
+
 5. Export to machine format (DST, PES, etc.) only for final production
 
 TECHNICAL SPECIFICATIONS:
@@ -374,7 +374,7 @@ Hatch allows you to:
 CRITICAL: Do NOT resize specialty designs (fringe, puffy, chain stitch)
 
 Step 3: Save or Export
-- Save in Hatch format (.EMBX) for future editing
+
 - Export to your machine format for stitching
 
 HATCH-SPECIFIC FEATURES FOR ARTAPLI DESIGNS:
@@ -413,7 +413,7 @@ SAFE PRACTICES IN HATCH:
 ✓ Use provided formats without conversion
 ✓ Test on scrap fabric before final project
 ✓ Keep original files backed up
-✓ Save work-in-progress in .EMBX format
+
 
 UNSAFE PRACTICES:
 ✗ Auto-optimizing specialty designs
@@ -601,7 +601,7 @@ Choose method based on project needs.
 
 BEST PRACTICES:
 1. Test font on scrap fabric before production
-2. Save project in Hatch format (.EMBX) to preserve editability
+
 3. Keep original ESA files backed up
 4. Document custom spacing settings for consistent results
 5. Create project templates for frequently used text layouts

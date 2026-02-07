@@ -40,7 +40,7 @@ When you purchase embroidery designs from Artapli, follow these steps:
 - Open Wilcom software
 - File > Open Design
 - Navigate to extracted folder
-- Select DST or EMB format files
+- Select DST format files
 - Design opens ready for editing or production
 
 ### Step 3: Preserve Design Quality
@@ -71,7 +71,7 @@ When you purchase embroidery designs from Artapli, follow these steps:
 Artapli provides fonts in multiple formats. For Wilcom users:
 
 - Use ESA format for native font mapping (see ESA section below)
-- Alternatively, use individual letter files (DST, EMB)
+- Alternatively, use individual letter files (DST)
 - **BX fonts do NOT work with Wilcom. BX fonts are designed for Embrilliance software.**
 
 ## Best Practices
@@ -79,7 +79,7 @@ Artapli provides fonts in multiple formats. For Wilcom users:
 1. Always keep original downloaded files as backup
 2. Work on copies, never original files
 3. Test stitch-out on scrap fabric first
-4. Save work in EMB format to preserve full editability
+
 5. Export to machine format (DST, PES, etc.) only for final production
 
 ## Technical Specifications

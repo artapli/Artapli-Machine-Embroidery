@@ -156,7 +156,7 @@ Choose method based on project needs.
 ## Best Practices
 
 1. Test font on scrap fabric before production
-2. Save project in Hatch format (.EMBX) to preserve editability
+
 3. Keep original ESA files backed up
 4. Document custom spacing settings for consistent results
 5. Create project templates for frequently used text layouts

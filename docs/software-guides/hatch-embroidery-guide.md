@@ -52,7 +52,7 @@ Hatch allows you to:
 
 ### Step 3: Save or Export
 
-- Save in Hatch format (.EMBX) for future editing
+- Save in Hatch format (.Hatch) for future editing
 - Export to your machine format for stitching
 
 ## Hatch-Specific Features for Artapli Designs
@@ -96,7 +96,7 @@ Optimization destroys:
 ✓ Use provided formats without conversion
 ✓ Test on scrap fabric before final project
 ✓ Keep original files backed up
-✓ Save work-in-progress in .EMBX format
+✓ Save work-in-progress in .Hatch format
 
 ## Unsafe Practices
 
@@ -140,7 +140,7 @@ Hatch excels at combining multiple designs:
 
 ## Technical Specifications
 
-- **Native format**: .EMBX (Hatch project file)
+- **Native format**: .Hatch (Hatch project file)
 - **Export formats**: 50+ machine formats
 - **Maximum design size**: 400mm x 400mm (depends on license tier)
 - **Font support**: ESA, TrueType (auto-digitized)
